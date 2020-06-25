@@ -6,7 +6,7 @@ banner:
   content: "" # Change this if you want something other then the site description
   buttons:
     - title: "Скачать"
-      link: "/download"
+      link: "download"
       class: "primary"
 
 ### Features ###
