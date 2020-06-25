@@ -1,0 +1,30 @@
+baseURL = "https://runtu.org/"
+languageCode = "ru-Ru"
+title = "Runtu"
+theme = 'alpha'
+
+[params]
+  description = "Легкий и быстрый дистрибутив Linux для домашних компьютеров"
+  images = ["images/pic01.jpg"]
+  copyright = "© 2007-2020 Runtu."
+  design = "Design: [HTML5 UP](http://html5up.net/)"
+  mainSections = ["blog"]
+
+### For Pages the .RelPermalink must match the menu .URL
+### For sections the name/directory must match the menu .Identifier
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name = "Новости"
+    url = "/blog/"
+    weight = 20
+  [[menu.main]]
+    identifier = "contact"
+    name = "Контакты"
+    url = "/contact/"
+    weight = 40
+  [[menu.main]]
+    name = "Форум"
+    url = "http://forum.runtu.org"
+    weight = 70
+    isExternal = true
