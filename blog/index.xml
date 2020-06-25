@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Новости on Runtu</title>
-    <link>https://runtu.org/blog/</link>
+    <link>https://warpc.github.io/runtu-site-hugo/blog/</link>
     <description>Recent content in Новости on Runtu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-Ru</language>
     <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://runtu.org/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://warpc.github.io/runtu-site-hugo/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Runtu LITE 20.04 х64</title>
-      <link>https://runtu.org/blog/runtu-lite-2004-x64-news/</link>
+      <link>https://warpc.github.io/runtu-site-hugo/blog/runtu-lite-2004-x64-news/</link>
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://runtu.org/blog/runtu-lite-2004-x64-news/</guid>
+      <guid>https://warpc.github.io/runtu-site-hugo/blog/runtu-lite-2004-x64-news/</guid>
       <description>Представлен релиз 64-разрядного дистрибутива Runtu LITE 20.04 х64, основой которого является пакетная база релиза Focal Fossa 20.04 LTS. Сборка имеет базовый набор пользовательского ПО с возможностью установки на жёсткий диск.
 Основные элементы системы:
 Менеджер дисплея LightDM 1.30
@@ -31,55 +31,55 @@
     
     <item>
       <title>Page Bundle Example</title>
-      <link>https://runtu.org/blog/page-bundle-example/</link>
+      <link>https://warpc.github.io/runtu-site-hugo/blog/page-bundle-example/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://runtu.org/blog/page-bundle-example/</guid>
+      <guid>https://warpc.github.io/runtu-site-hugo/blog/page-bundle-example/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
     </item>
     
     <item>
       <title>Ante mattis interdum dolor</title>
-      <link>https://runtu.org/blog/post2/</link>
+      <link>https://warpc.github.io/runtu-site-hugo/blog/post2/</link>
       <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://runtu.org/blog/post2/</guid>
+      <guid>https://warpc.github.io/runtu-site-hugo/blog/post2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
     </item>
     
     <item>
       <title>Odio magna sed consectetur</title>
-      <link>https://runtu.org/blog/post4/</link>
+      <link>https://warpc.github.io/runtu-site-hugo/blog/post4/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://runtu.org/blog/post4/</guid>
+      <guid>https://warpc.github.io/runtu-site-hugo/blog/post4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
     </item>
     
     <item>
       <title>Augue lorem primis vestibulum</title>
-      <link>https://runtu.org/blog/post3/</link>
+      <link>https://warpc.github.io/runtu-site-hugo/blog/post3/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://runtu.org/blog/post3/</guid>
+      <guid>https://warpc.github.io/runtu-site-hugo/blog/post3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
     </item>
     
     <item>
       <title>first post</title>
-      <link>https://runtu.org/blog/post/</link>
+      <link>https://warpc.github.io/runtu-site-hugo/blog/post/</link>
       <pubDate>Mon, 06 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://runtu.org/blog/post/</guid>
+      <guid>https://warpc.github.io/runtu-site-hugo/blog/post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc.</description>
     </item>
     
     <item>
       <title>Primis eget imperdiet lorem</title>
-      <link>https://runtu.org/blog/post1/</link>
+      <link>https://warpc.github.io/runtu-site-hugo/blog/post1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://runtu.org/blog/post1/</guid>
+      <guid>https://warpc.github.io/runtu-site-hugo/blog/post1/</guid>
       <description>Example of post with missing date property.</description>
     </item>
     
