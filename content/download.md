@@ -10,4 +10,4 @@ weight: 30
 2. [Зеркало на Яндекс (http)](http://mirror.yandex.ru/runtu/)
 3. [Зеркало на Яндекс (ftp)](ftp://mirror.yandex.ru/runtu/)
 
-Полный перечень доступных загрузок размещён на [форуме проекта](http://forum.runtu.org/index.php/board,29.0.html)
+Полный перечень доступных загрузок размещён на [форуме проекта](http://forum.runtu.org/index.php/board,29.0.html).
