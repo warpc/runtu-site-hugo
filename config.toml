@@ -7,7 +7,7 @@ paginate = 10
 googleAnalytics = 'UA-6171888-2'
 
 [params]
-  description = "Runtu — быстрый и легкий Linux на русском"
+  description = "Runtu — быстрый и лёгкий Linux на русском"
   mainSections = ["post"]
   favicon = "images/favicon.ico"
   logo = 'images/logo.png'
@@ -34,6 +34,7 @@ googleAnalytics = 'UA-6171888-2'
 
 [params.contact] # Contact info
     email = "org@runtu.org"
+    xmpp = "runtu@conference.jabber.ru"
     phone = ""
     skype = ""
     address = ""
