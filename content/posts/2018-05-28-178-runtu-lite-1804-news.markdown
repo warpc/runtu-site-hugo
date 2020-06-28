@@ -1,0 +1,66 @@
+---
+title: Релиз дистрибутива Runtu LITE 18.04
+date: 2018-05-28 07:36:17.000000000 +00:00
+draft: false
+slug: runtu-lite-1804-news
+aliases:
+- "/news-project/runtu-lite-1804-news.html"
+---
+
+Представлен релиз 32-разрядного дистрибутива **Runtu LITE 18.04** , основой которого является пакетная база релиза **Bionic Beaver 18.04 LTS**. Сборка имеет минимальный набор пользовательского ПО с возможностью установки на жёсткий диск. В составе предустановлены программы для работы с Интернет, воспроизведение аудио- и видеоконтента, настройки рабочего окружения.  
+  
+  
+ **Основные элементы системы:**  
+  
+Менеджер дисплея&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;LightDM 1.26  
+Оконный менеджер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Openbox 3.6.1  
+Файловый менеджер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;PCManFM 1.2.5  
+Панель рабочего стола&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; LXPanel 0.9.3  
+Менеджер сети&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;NetworkManager 1.10.6 (pptp, l2tp, sstp, openvpn и vpnc)  
+Браузер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Firefox 60.0.1  
+Видеоплеер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;VLC 3.0.2  
+Аудиоплеер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;DeaDBeeF 0.7.2  
+  
+Менеджер питания&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; xfce4-power-manager  
+Менеджер Bluetooth&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Blueman  
+Звуковой сервер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PulseAudio  
+  
+Версия ядра:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4.15.0-22-generic  
+Версия Xorg:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1.19.6  
+   
+  
+ **Минимальные системные требования:**  
+  
+RAM - 512Mb  
+CPU - P4  
+HDD - 3Gb  
+  
+Логин:&nbsp; &nbsp; runtu  
+Пароль:&nbsp; пустой  
+  
+  
+ **Скриншоты рабочего окружения:**  
+  
+  
+[![](http://img12.lostpic.net/2018/05/27/8e66fcbb2edaabf2466fd6b8acb56206.th.png)](http://lostpic.net/image/clvg)
+
+[![](http://img12.lostpic.net/2018/05/27/b2d7451c8435e6946eb081f8533da7e3.th.png)](http://lostpic.net/image/clvK)
+
+[![](http://img12.lostpic.net/2018/05/27/2c4dd9a62d27120ce2778892506d6993.th.png)](http://lostpic.net/image/clvk)  
+  
+  
+  
+ **Ссылки на загрузку:**  
+  
+Загрузить с [Sourceforge.net](https://sourceforge.net/projects/runtu/files/runtu%2018.04/LITE/runtu-lite-18.04_201805.iso/download)  
+  
+Загрузить с [зеркала Яндекса](http://mirror.yandex.ru/runtu/runtu%2018.04/LITE/runtu-lite-18.04_201805.iso)  
+  
+  
+**Файл** :&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; runtu-lite-18.05\_201805.iso  
+  
+**Размер** :&nbsp; &nbsp; &nbsp; &nbsp;592 Мб  
+  
+**md5** :&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;85fc6f8040d054f98bf439b704e2e045  
+**sha1** :&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;c3cb9542e6447478151617d23801175b3935e594
+

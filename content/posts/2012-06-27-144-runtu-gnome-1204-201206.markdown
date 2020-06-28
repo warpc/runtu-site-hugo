@@ -1,0 +1,13 @@
+---
+title: Runtu Gnome 12.04 - 201206
+date: 2012-06-27 12:33:27.000000000 +00:00
+draft: false
+slug: runtu-gnome-1204-201206
+aliases:
+- "/news-project/runtu-gnome-1204-201206.html"
+---
+
+Представлена обновлённая версия сборки Runtu Gnome 12.04 с окружением Gnome Fallback
+
+[Подробнее...](http://forum.runtu.org/index.php/topic,2863.0.html)
+

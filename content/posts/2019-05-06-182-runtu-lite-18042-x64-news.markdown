@@ -1,0 +1,82 @@
+---
+title: Релиз дистрибутива Runtu LITE 18.04.2 х64
+date: 2019-05-06 09:47:02.000000000 +00:00
+draft: false
+slug: runtu-lite-18042-x64-news
+aliases:
+- "/news-project/runtu-lite-18042-x64-news.html"
+---
+
+Представлен релиз 64-разрядного дистрибутива **Runtu LITE 18.04 х64** , основой которого является пакетная база релиза **Bionic Beaver 18.04.2 LTS**. Сборка имеет базовый набор пользовательского ПО с возможностью установки на жёсткий диск.  
+  
+  
+ **Основные элементы системы:**  
+  
+Менеджер дисплея&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;LightDM 1.26  
+Оконный менеджер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Openbox 3.6.1  
+Файловый менеджер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;PCManFM 1.2.5  
+Панель рабочего стола&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;LXPanel 0.9.3  
+Менеджер сети&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;NetworkManager 1.10.6 (pptp, l2tp, sstp, ssh, openvpn и vpnc)  
+Текстовый редактор&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Geany 1.32  
+Браузер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Firefox 66.0.3  
+Видеоплеер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; VLC 3.0.4  
+Аудиоплеер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DeaDBeeF 1.8.0  
+  
+  
+Менеджер питания&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;xfce4-power-manager  
+Менеджер Bluetooth&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Blueman  
+Звуковой сервер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PulseAudio  
+  
+Версия ядра:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4.18.0-18-generic  
+Версия Xorg:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1.19.6  
+   
+  
+ **Минимальные системные требования:**  
+  
+RAM - 1024Mb  
+CPU - x64  
+HDD - 4Gb  
+  
+Логин:&nbsp; &nbsp; runtu  
+Пароль:&nbsp; пустой  
+  
+  
+ **Скриншоты рабочего окружения:**  
+  
+===========================  
+  
+[![](http://img14.lostpic.net/2019/05/04/c6d3efbdec0ca3c4cbd21d2e6c950b4c.th.png)](http://lostpic.net/image/rrQX)
+
+&nbsp;
+
+[![](http://img14.lostpic.net/2019/05/04/33c41f0abf26bcc9ff9ed329d4ef85de.th.png)](http://lostpic.net/image/rrQ8)
+
+&nbsp;
+
+[![](http://img14.lostpic.net/2019/05/04/a449cda29807c9f4cbf72f2b96d89dcc.th.png)](http://lostpic.net/image/rrQj)  
+  
+===========================  
+  
+  
+ **Служебные комментарии:**  
+  
+Установку дистрибутива желательно проводить без доступа к Интернет, чтобы сократить время на загрузку списка пакетов в доступных репозиториях. Обновление производить после установки системы на жёсткий диск.  
+  
+В перечень ПО добавлен VNC-сервер для удалённого управления (VINO). После настроек подключения необходимо перезайти в сеанс для возможности работы с удалённым рабочим столом.  
+  
+В меню "Офис" добавлены ярлыки для возможности установки **LibreOffice Fresh** (_ppa:libreoffice/ppa_) и подсистемы печати.
+
+**Ссылки на загрузку:**  
+  
+Загрузить с [Sourceforge.net](https://sourceforge.net/projects/runtu/files/runtu%2018.04/LITE/runtu-lite-18.04.2-amd64_201905.iso/download)  
+  
+Загрузить с [зеркала Яндекса](http://mirror.yandex.ru/runtu/runtu%2018.04/LITE/runtu-lite-18.04.2-amd64_201905.iso) (будет доступно после синхронизации с SF)  
+  
+  
+**Файл** :&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; runtu-lite-18.04.2-amd64\_201905.iso  
+  
+**Размер** :&nbsp; &nbsp; &nbsp; &nbsp;628 Мб  
+  
+**md5** :&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;bb08f56be44c6d432d97b3ab89cb3d80  
+**sha1** :&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4f2363890ef9480323e2ba336b18a1f74028abaa
+

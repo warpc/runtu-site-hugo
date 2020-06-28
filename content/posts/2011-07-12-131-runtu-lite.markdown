@@ -1,0 +1,13 @@
+---
+title: Обновление сборки Runtu Lite
+date: 2011-07-12 14:36:15.000000000 +00:00
+draft: false
+slug: "-runtu-lite"
+aliases:
+- "/news-project/-runtu-lite.html"
+---
+
+Обновлена сборка Runtu Lite.
+
+Подробности читайте на [форуме](http://forum.runtu.org/index.php/topic,1360.0.html)
+

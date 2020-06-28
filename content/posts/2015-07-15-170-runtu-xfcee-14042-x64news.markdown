@@ -1,0 +1,39 @@
+---
+title: Релиз 64-разрядной версии Runtu
+date: 2015-07-15 14:56:33.000000000 +00:00
+draft: false
+slug: runtu-xfcee-14042-x64news
+aliases:
+- "/news-project/runtu-xfcee-14042-x64news.html"
+---
+
+Выпущен релиз дистрибутива Runtu XFCE 14.04.2 с поддержкой архитектуры x86-64 (AMD64), основанный на пакетной базе релиза &nbsp; **Trusty Tahr 14.04.2 LTS**. Дистрибутив собран с помощью **debootstrap** , установлена базовая система и рабочее окружение **XFCE 4.12** из репозитория **xubuntu-dev**. В состав ПО включены средства для воспроизведения аудио- и видео-файлов, текстовый процессор **LibreОffice** , подсистема печати. Для работы с Интернет предустановлены браузер **Firefox** , менеджер загрузок **uGet** , торрент-клиент **Transmission** , коммуникатор **Skype**. Системное ПО позволяет осуществить настройку параметров рабочего окружения и администрирование.  
+  
+Дистрибутив поддерживает установку в UEFI-режиме.   
+  
+ **Основные элементы системы:**  
+  
+Менеджер дисплея &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; LightDM  
+Оконный менеджер &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; XFWM  
+Файловый менеджер &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thunar 1.6.10  
+Панель рабочего стола &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;xfce4-panel 4.12  
+Менеджер сети &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;NetworkManager (с плагинами pptp, l2tp)  
+  
+Менеджер питания &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;xfce4-power-manager  
+Звуковой сервер &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pulseaudio  
+  
+Версия ядра: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; linux-generic-lts-utopic 3.16.0.43.34  
+  
+Версия Xorg: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;xserver-xorg-core-lts-utopic 1.16  
+   
+  
+ **Минимальные системные требования:**  
+  
+RAM - 512Mb  
+CPU - x86-64   
+HDD - 3,5Gb
+
+В целях уменьшения времени установки дистрибутива рекомендуется отключить сетевое соединение во время инсталляции - это предотвратит загрузку обновлений индексов пакетной базы. При необходимости обновление нужно выполнять из установленной системы.
+
+Обсуждение дистрибутива - в [соответствующей теме](http://forum.runtu.org/index.php/topic,6539.0.html) форума.
+

@@ -1,0 +1,13 @@
+---
+title: Runtu XFCE 12.04 - 201303
+date: 2013-03-19 09:48:14.000000000 +00:00
+draft: false
+slug: runtu-xfce-1204-201303
+aliases:
+- "/news-project/runtu-xfce-1204-201303.html"
+---
+
+Представлен обновленный дистрибутив Runtu XFCE
+
+[Подробнее...](http://forum.runtu.org/index.php/topic,3855.0/topicseen.html)
+

@@ -1,0 +1,71 @@
+---
+title: Релиз дистрибутива Runtu XFCE 18.04.3 x64
+date: 2019-08-19 20:53:14.000000000 +00:00
+draft: false
+slug: runtu-xfce-18043-news
+aliases:
+- "/news-project/runtu-xfce-18043-news.html"
+---
+
+Представлена x64-версия дистрибутива **Runtu XFCE 18.04** , основанная на пакетной базе релиза&nbsp; **Bionic Beaver 18.04.3 LTS**. В состав выпуска вошли улучшения, бэкпортированные из выпуска **Ubuntu 19.04** : версия ядра **Linux 5.0** и компоненты графического стека, актуализирована пакетная база. Дистрибутив собран с помощью **debootstrap** , установлена базовая система и рабочее окружение **XFCE 4.12**. В состав ПО включены средства для воспроизведения аудио- и видео-файлов, офисный пакет **LibreОffice 6.3.0** , графический редактор **Gimp 2.10** , подсистема печати. Для работы с Интернет предустановлены браузер **Firefox 68** , менеджер загрузок **uGet** , торрент-клиент **Transmission** , почтовый клиент **Thunderbird**. Системное ПО позволяет осуществить настройку параметров рабочего окружения и администрирование.  
+  
+  
+ **Основные элементы системы:**  
+  
+Менеджер дисплея&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;LightDM  
+Оконный менеджер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;XFWM  
+Файловый менеджер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Thunar 1.6.15  
+Панель рабочего стола&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; xfce4-panel 4.12  
+Менеджер сети&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NetworkManager (pptp, l2tp, vpnc, sstp, ssh, OpenVPN)  
+Текстовый редактор&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Geany 1.32  
+Графический редактор&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Gimp 2.10.12  
+Браузер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Firefox 68.0.2  
+Почтовый клиент&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thunderbird 60.8.0  
+Видеоплеер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;VLC 3.0.7  
+Аудиоплеер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;DeaDBeeF 1.8.2  
+  
+Менеджер питания&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; xfce4-power-manager  
+Звуковой сервер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pulseaudio  
+Менеджер Bluetooth&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Blueman  
+  
+Версия ядра:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;linux-generic 5.0.0-25  
+Версия Xorg:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;xserver-xorg 1.20.4  
+   
+Логин:&nbsp; &nbsp; runtu  
+Пароль:&nbsp; пустой  
+  
+ **Минимальные системные требования:**  
+  
+RAM - 1024Mb  
+CPU - x86\_64  
+HDD - 5Gb  
+  
+  
+  
+ **Скриншоты рабочего окружения:**  
+  
+===========================  
+  
+[![](https://img16.lostpic.net/2019/08/19/4f70b43eb86075d25196e7f44af79712.th.png)](https://lostpic.net/image/wENU) [![](https://img15.lostpic.net/2019/08/19/7c5d36f6193d4a08e441c818ee55eec4.th.png)](https://lostpic.net/image/wENi)
+
+[![](https://img16.lostpic.net/2019/08/19/d683e560aa05509af4581c4e45045bce.th.png) ](https://lostpic.net/image/wENa)[![](https://img15.lostpic.net/2019/08/19/b2d4b74a4a29988ad8a265ae6a198866.th.png)](https://lostpic.net/image/wENB)
+
+[![](https://img16.lostpic.net/2019/08/19/398a748f53285b16ec039e5bda7e7fb3.th.png)](https://lostpic.net/image/wENe) [![](https://img15.lostpic.net/2019/08/19/d5f3c4d3cdee9ad99625ac21e63d8642.th.png)](https://lostpic.net/image/wENq)   
+  
+===========================  
+  
+  
+ **Ссылки на загрузку:**  
+  
+Загрузить с [Sourceforge.net](https://sourceforge.net/projects/runtu/files/runtu%2018.04/XFCE/runtu-xfce-18.04.3-amd64_20190819.iso/download)  
+  
+Загрузить с [зеркала Яндекса](http://mirror.yandex.ru/runtu/runtu%2018.04/XFCE/runtu-xfce-18.04.3-amd64_20190819.iso)  
+  
+  
+**Файл** :&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; runtu-xfce-18.04.3-amd64\_20190819.iso  
+  
+**Размер** :&nbsp; &nbsp; &nbsp; &nbsp;829 Мб  
+  
+**md5** :&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f8b68b9e3593cd7d9b00bab3aeaf88f0  
+**sha1** :&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ca9c4d93bd57b849ee3003ff49667a0541cb975a
+

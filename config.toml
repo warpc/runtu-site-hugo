@@ -1,30 +1,72 @@
 baseURL = "https://warpc.github.io/runtu-site-hugo/"
 languageCode = "ru-Ru"
 title = "Runtu"
-theme = 'alpha'
+theme = 'terrassa'
+enableRobotsTXT = true
+paginate = 10
+googleAnalytics = 'UA-6171888-2'
 
 [params]
-  description = "Легкий и быстрый дистрибутив Linux для домашних компьютеров"
-  images = ["images/pic01.jpg"]
-  copyright = "© 2007-2020 Runtu."
-  design = "Design: [HTML5 UP](http://html5up.net/)"
-  mainSections = ["blog"]
+  description = "Runtu — быстрый и легкий Linux на русском"
+  mainSections = ["post"]
+  favicon = "images/favicon.ico"
+  logo = 'images/logo.png'
+
+[params.copy]
+    copy = "© 2007-2020 Runtu"
+
+[params.hero]
+    textColor = "" # Empty for default color
+
+[params.cta] # Call To Action
+    show = true
+    cta = "Скачать"
+    link = "download" # Relative URL
+
+[params.separator] # Separators between sections on the home page
+    show = false
+
+[params.posts]
+    showAuthor = false
+    showDate = true
+    showTags = true
+    dateFormat = "01-02-2006 15:04"
+
+[params.contact] # Contact info
+    email = "org@runtu.org"
+    phone = ""
+    skype = ""
+    address = ""
 
 ### For Pages the .RelPermalink must match the menu .URL
 ### For sections the name/directory must match the menu .Identifier
+
+[privacy]
+    [privacy.googleAnalytics]
+        anonymizeIP = true
+        disable = false
+        respectDoNotTrack = true
+        useSessionStorage = false
+    [privacy.instagram]
+        disable = false
+        simple = false
+    [privacy.twitter]
+        disable = false
+        enableDNT = true
+        simple = false
+    [privacy.vimeo]
+        disable = false
+        simple = false
+    [privacy.youtube]
+        disable = false
+        privacyEnhanced = true
+
+[params.languageSwitcher]
+    show = false
+
 [menu]
   [[menu.main]]
-    identifier = "blog"
-    name = "Новости"
-    url = "/blog/"
-    weight = 20
-  [[menu.main]]
-    identifier = "contact"
-    name = "Контакты"
-    url = "/contact/"
-    weight = 40
-  [[menu.main]]
+    identifier = "forum"
     name = "Форум"
     url = "http://forum.runtu.org"
-    weight = 70
-    isExternal = true
+    weight = 35

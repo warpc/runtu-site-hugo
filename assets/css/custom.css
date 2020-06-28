@@ -1,0 +1,16 @@
+:root {
+    /* Colors */
+     
+    --primary: #1E90FF;
+    --primary-dark:#1E90FF;
+    --primary-light: #1E90FF;
+    --primary-text: #212121;
+    --secondary-text: #333333;
+    --accent: #536dfe;
+    --divider: #bdbdbd;
+    --white: #fdfdfd;
+}
+
+.hero {
+	background-size: cover;
+}

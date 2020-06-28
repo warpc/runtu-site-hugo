@@ -1,0 +1,13 @@
+---
+title: Runtu GNOME 12.04 - 201308
+date: 2013-08-10 14:04:53.000000000 +00:00
+draft: false
+slug: runtu-gnome-1204-201308
+aliases:
+- "/news-project/runtu-gnome-1204-201308.html"
+---
+
+Представлена обновленная версия дистрибутива Runtu GNOME 12.04, собранного на базе Ubuntu 12.04.2. В качестве сессии по-умолчанию используется сессия Gnome-Fallback с одной нижней панелью и классическим меню.
+
+[Подробнее...](http://forum.runtu.org/index.php/topic,4404.0.html)
+

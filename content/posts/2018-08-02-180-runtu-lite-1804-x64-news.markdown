@@ -1,0 +1,77 @@
+---
+title: Релиз дистрибутива Runtu LITE 18.04 х64
+date: 2018-08-02 09:32:11.000000000 +00:00
+draft: false
+slug: runtu-lite-1804-x64-news
+aliases:
+- "/news-project/runtu-lite-1804-x64-news.html"
+---
+
+Представлен релиз 64-разрядного дистрибутива **Runtu LITE 18.04 х64** , основой которого является пакетная база релиза **Bionic Beaver 18.04.1 LTS**. Сборка имеет минимальный набор пользовательского ПО с возможностью установки на жёсткий диск.  
+  
+  
+ **Основные элементы системы:**  
+  
+Менеджер дисплея &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; LightDM 1.26  
+Оконный менеджер &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Openbox 3.6.1  
+Файловый менеджер &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PCManFM 1.2.5  
+Панель рабочего стола &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;LXPanel 0.9.3  
+Менеджер сети &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NetworkManager 1.10.6 (pptp, l2tp, sstp, openvpn и vpnc)  
+Браузер &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Firefox 61.0.1  
+Видеоплеер &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; VLC 3.0.2  
+Аудиоплеер &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DeaDBeeF 0.7.2  
+  
+Менеджер питания &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;xfce4-power-manager  
+Менеджер Bluetooth &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Blueman  
+Звуковой сервер &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; PulseAudio  
+  
+Версия ядра: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4.15.0-29-generic  
+Версия Xorg: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1.19.6  
+   
+  
+ **Минимальные системные требования:**  
+  
+RAM - 1024Mb  
+CPU - x64  
+HDD - 3Gb  
+  
+Логин: &nbsp; &nbsp;runtu  
+Пароль: &nbsp;пустой  
+  
+  
+ **Скриншоты рабочего окружения:**  
+  
+===========================  
+  
+[![](http://img11.lostpic.net/2018/08/01/659e9686263a4424133293fb86e4499d.th.png)](http://lostpic.net/image/nQ9K)
+
+&nbsp;
+
+[![](http://img11.lostpic.net/2018/08/01/d148302197af7d27625e47ee57580302.th.png)](http://lostpic.net/image/nQ9v)
+
+&nbsp;
+
+[![](http://img11.lostpic.net/2018/08/01/535aed207d23ece1f0cf439f67334c53.th.png)](http://lostpic.net/image/nQ9g)  
+  
+===========================  
+  
+  
+ **Служебные комментарии:**  
+  
+Установку дистрибутива желательно проводить без доступа к Интернет, чтобы сократить время на загрузку списка пакетов в доступных репозиториях. Обновление проводить после установки системы на жёсткий диск.  
+  
+  
+ **Ссылки на загрузку:**  
+  
+Загрузить с [Sourceforge.net](https://sourceforge.net/projects/runtu/files/runtu%2018.04/LITE/runtu-lite-18.04.1-amd64_20180801.iso/download)  
+  
+Загрузить с [зеркала Яндекса](http://mirror.yandex.ru/runtu/runtu%2018.04/LITE/runtu-lite-18.04.1-amd64_20180801.iso)  
+  
+  
+**Файл** : &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;runtu-lite-18.04.1-amd64\_20180801.iso  
+  
+**Размер** : &nbsp; &nbsp; &nbsp; 600 Мб  
+  
+**md5** : &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 8be282d10c510dba2c4c230ab44bcf91  
+**sha1** : &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; e27618090dc67280b9716a480715d8803cb8fdce
+

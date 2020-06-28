@@ -1,0 +1,85 @@
+---
+title: Релиз дистрибутива Runtu LITE 18.04.3 х64
+date: 2019-12-12 12:07:39.000000000 +00:00
+draft: false
+slug: runtu-lite-18043-x64-news
+aliases:
+- "/news-project/runtu-lite-18043-x64-news.html"
+---
+
+Представлен релиз 64-разрядного дистрибутива **Runtu LITE 18.04.3 х64** , основой которого является пакетная база релиза **Bionic Beaver 18.04.3 LTS**. Сборка имеет базовый набор пользовательского ПО с возможностью установки на жёсткий диск.  
+  
+  
+ **Основные элементы системы:**  
+  
+Менеджер дисплея &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; LightDM 1.26  
+Оконный менеджер &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Openbox 3.6.1  
+Файловый менеджер &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PCManFM 1.2.5  
+Панель рабочего стола &nbsp; &nbsp; &nbsp; &nbsp; LXPanel 0.9.3  
+Менеджер сети &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;NetworkManager 1.10.6 (pptp, l2tp, sstp, ssh, openvpn и vpnc)  
+Текстовый редактор &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Geany 1.32  
+Браузер &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Firefox 71.0  
+Видеоплеер &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;VLC 3.0.8  
+Аудиоплеер &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;DeaDBeeF 1.8.2  
+  
+  
+Менеджер питания &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; xfce4-power-manager  
+Менеджер Bluetooth &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Blueman  
+Звуковой сервер &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PulseAudio  
+  
+Версия ядра: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5.0.0-37-generic  
+Версия Xorg: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1.20.4  
+   
+  
+ **Минимальные системные требования:**  
+  
+RAM - 1024Mb  
+CPU - x64  
+HDD - 4Gb  
+  
+Логин: &nbsp; &nbsp;runtu  
+Пароль: &nbsp;пустой  
+  
+  
+ **Скриншоты рабочего окружения:**  
+  
+===========================  
+  
+[![](https://img15.lostpic.net/2019/12/11/036c6a710ae27cad4c73430e64654f6e.th.png)](http://lostpic.net/image/pY0O)
+
+&nbsp;
+
+[![](https://img16.lostpic.net/2019/12/11/552cb37b27b3818f1349cbcdafb1f0e5.th.png)](http://lostpic.net/image/pY0L)
+
+&nbsp;
+
+[![](https://img16.lostpic.net/2019/12/11/8a9afc62c0445b3b53557fae0b74c3f5.th.png)](http://lostpic.net/image/pY0G)  
+  
+===========================  
+  
+  
+ **Служебные комментарии:**  
+  
+Установку дистрибутива желательно проводить без доступа к Интернет, чтобы сократить время на загрузку списка пакетов в доступных репозиториях. Обновление производить после установки системы на жёсткий диск.  
+  
+В меню загрузчика GRUB в режиме UEFI добавлен пункт проверки оперативной памяти (memtest86).  
+  
+В меню "Офис" добавлены ярлыки для возможности установки **LibreOffice Fresh** (_ppa:libreoffice/ppa_) и подсистемы печати. Если они не нужны в меню, следует удалить файлы **printinstall** и **lo\_install** в каталоге /var/lib/misc/.  
+  
+ **Ссылки на загрузку:**  
+  
+Загрузить с [Sourceforge.net](https://sourceforge.net/projects/runtu/files/runtu%2018.04/LITE/runtu-lite-18.04.3-amd64_20191210.iso/download)
+
+Загрузить с [зеркала Яндекса](http://mirror.yandex.ru/runtu/runtu%2018.04/LITE/runtu-lite-18.04.3-amd64_20191210.iso) (будет доступно после синхронизации с SF)
+
+**Файл:** runtu-lite-18.04.3-amd64\_20191210.iso  
+  
+**Размер:** 648 Мб  
+  
+  
+**md5:** cfdbeb3097605596605b0282e9c46890  
+**sha1:** e17f669a3f4e5c2f54abbb3e3f6cc6e1b9350ada  
+  
+  
+**Поддержать проект:** [ссылка на тему форума](http://forum.runtu.org/index.php/topic,188.0.html).
+

@@ -1,0 +1,23 @@
+---
+title: Обновлены сборки
+date: 2014-05-18 21:00:00.000000000 +00:00
+draft: false
+slug: 2014-02-21-06-35-04
+aliases:
+- "/news-project/2014-02-21-06-35-04.html"
+---
+
+Представлен дистрибутив Runtu XFCE 14.04.2, основанный на пакетной базе LTS релиза Trusty Tahr 14.04.2 с окружением XFCE 4.12. [Подробнее...](http://forum.runtu.org/index.php/topic,6335.0.html)
+
+Представлен дистрибутив Runtu LITE 14.04.1, основанный на пакетной базе LTS релиза Trusty Tahr 14.04.1. [Подробнее...](http://forum.runtu.org/index.php/topic,6024.0.html)
+
+Представлен дистрибутив Runtu XFCE 14.04, основанный на пакетной базе LTS релиза Trusty Tahr 14.04. [Подробнее...](http://forum.runtu.org/index.php/topic,5210.0.html)
+
+Представлен дистрибутив Runtu LITE 14.04, основанный на пакетной базе LTS релиза Trusty Tahr 14.04. [Подробнее...](http://forum.runtu.org/index.php/topic,5173.0.html)
+
+Представлен дистрибутив Runtu GNOME 12.04, обновлённый до текущей версии 12.04.4. [Подробнее...](http://forum.runtu.org/index.php/topic,5043.0.html)
+
+Представлен дистрибутив Runtu XFCE 12.04, обновлённый до текущей версии 12.04.4. [Подробнее...](http://forum.runtu.org/index.php/topic,5044.0.html)
+
+Представлен дистрибутив Runtu LITE 12.04.4, основанного на пакетной базе Ubuntu 12.04.4. [Подробнее...](http://forum.runtu.org/index.php/topic,5055.0.html)
+

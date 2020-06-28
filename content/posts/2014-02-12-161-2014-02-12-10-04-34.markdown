@@ -1,0 +1,19 @@
+---
+title: Обновлены версии
+date: 2014-02-12 10:02:49.000000000 +00:00
+draft: false
+slug: 2014-02-12-10-04-34
+aliases:
+- "/news-project/2014-02-12-10-04-34.html"
+---
+
+Обновлены версии дистрибутивов до пакетной базы 12.04.4 LTS:  
+  
+Runtu GNOME 12.04.4
+
+Runtu XFCE 12.04.4
+
+Runtu LITE 12.04.4
+
+[Подробности...](http://forum.runtu.org/index.php/topic,4999.msg34290.html)
+

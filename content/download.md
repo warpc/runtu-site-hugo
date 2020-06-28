@@ -1,6 +1,8 @@
 ---
-Title: "Скачать Runtu"
-description: "Скачать Runtu"
+title: "Скачать"
+description: ""
+menu: main
+weight: 30
 ---
 
 Вы можете совершенно бесплатно скачать версии Runtu с ресурсов:

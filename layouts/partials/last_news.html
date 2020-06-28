@@ -1,0 +1,14 @@
+{{ $related := (where $.Site.RegularPages "Type" "posts") | first 1 }}
+{{ with $related }}
+    {{ range . }}
+    <section class="section">
+        <h3>Последние новости:</h3>
+        <article class="card">
+            <main class="card__body">
+            {{.Summary}}
+            </main>
+        </article>
+        <a href="{{ .RelPermalink }}"> {{.Title}}</a> 
+    </section>
+    {{ end }}
+{{ end }}

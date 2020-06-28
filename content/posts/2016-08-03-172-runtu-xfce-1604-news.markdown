@@ -1,0 +1,59 @@
+---
+title: Релиз дистрибутива XFCE 16.04
+date: 2016-08-03 06:28:35.000000000 +00:00
+draft: false
+slug: runtu-xfce-1604-news
+aliases:
+- "/news-project/runtu-xfce-1604-news.html"
+---
+
+Представлен дистрибутив **Runtu XFCE 16.04** , основанный на пакетной базе релиза&nbsp; **Xenial Xerus 16.04.1 LTS**. Дистрибутив собран с помощью **debootstrap** , установлена базовая система и рабочее окружение **XFCE 4.12**. В состав ПО включены средства для воспроизведения аудио- и видео-файлов, офисный пакет **LibreОffice** , подсистема печати. Для работы с Интернет предустановлены браузер **Firefox** , менеджер загрузок **uGet** , торрент-клиент **Transmission** , коммуникатор **Skype**. Системное ПО позволяет осуществить настройку параметров рабочего окружения и администрирование.  
+  
+  
+ **Основные элементы системы:**  
+  
+Менеджер дисплея&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;LightDM  
+Оконный менеджер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;XFWM  
+Файловый менеджер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Thunar 1.6.10  
+Панель рабочего стола&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; xfce4-panel 4.12  
+Менеджер сети&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NetworkManager  
+  
+Менеджер питания&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; xfce4-power-manager  
+Звуковой сервер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Pulseaudio  
+  
+Версия ядра:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;linux-generic 4.4.0.31.33  
+  
+Версия Xorg:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; xserver-xorg 1.18  
+   
+  
+ **Минимальные системные требования:**  
+  
+RAM - 512Mb  
+CPU - i386   
+HDD - 4Gb  
+  
+  
+ **Скриншоты рабочего окружения:**  
+  
+ [![](http://storage4.static.itmages.ru/i/16/0801/s_1470060655_1228243_6b26a17bbd.png)](http://itmages.ru/image/view/4670331/6b26a17b) [![](http://storage3.static.itmages.ru/i/16/0801/s_1470060654_7652326_5270bfc6bd.png)](http://itmages.ru/image/view/4670329/5270bfc6)  
+  
+======================================================  
+  
+ **Дополнительная информация:**  
+  
+ Вследствие перехода **Ubuntu** на систему инициализации **systemd** изменились процессы конфигурирования системы, рабочего окружения и других параметров. Поскольку **systemd** развивается очень быстрыми темпами, стабильность дистрибутива на данный момент может не соответствовать привычным ожиданиям. Тем, кому нужна надёжность и отлаженный рабочий процесс, не рекомендуется использовать данную версию на местах с повышенными требованиями к стабильности.  
+   
+======================================================  
+  
+ **Ссылки на загрузку:**  
+  
+Загрузить c [Sourceforge.net](https://sourceforge.net/projects/runtu/files/runtu%2016.04/XFCE/runtu-xfce-16.04.1_20160801.iso/download)  
+  
+Загрузить с [зеркала Яндекс](http://mirror.yandex.ru/runtu/runtu%2016.04/XFCE/runtu-xfce-16.04.1_20160801.iso)  
+  
+**Файл** :&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; runtu-xfce-16.04.1\_20160801.iso  
+  
+**Размер** :&nbsp; &nbsp; &nbsp; &nbsp;672 Мб  
+  
+**md5** :&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ce68f19b983ff3a05ab53fe23bc12009
+

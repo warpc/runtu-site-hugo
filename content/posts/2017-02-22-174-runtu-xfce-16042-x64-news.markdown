@@ -1,0 +1,57 @@
+---
+title: Релиз дистрибутива Runtu XFCE 16.04.2 x64
+date: 2017-02-22 21:41:26.000000000 +00:00
+draft: false
+slug: runtu-xfce-16042-x64-news
+aliases:
+- "/news-project/runtu-xfce-16042-x64-news.html"
+---
+
+Представлена x64-версия дистрибутива **Runtu XFCE 16.04** , основанная на пакетной базе релиза&nbsp; **Xenial Xerus 16.04.2 LTS**. Дистрибутив собран с помощью **debootstrap** , установлена базовая система и рабочее окружение **XFCE 4.12**. В состав ПО включены средства для воспроизведения аудио- и видео-файлов, офисный пакет **LibreОffice** , подсистема печати. Для работы с Интернет предустановлены браузер **Firefox** , менеджер загрузок **uGet** , торрент-клиент **Transmission** , почтовый клиент **Sylpheed**. Системное ПО позволяет осуществить настройку параметров рабочего окружения и администрирование.  
+  
+  
+ **Основные элементы системы:**  
+  
+Менеджер дисплея&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;LightDM  
+Оконный менеджер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;XFWM  
+Файловый менеджер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Thunar 1.6.10  
+Панель рабочего стола&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; xfce4-panel 4.12  
+Менеджер сети&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NetworkManager  
+  
+Менеджер питания&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; xfce4-power-manager  
+Звуковой сервер&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Pulseaudio  
+  
+Версия ядра:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;linux-generic 4.8.0-39 (hwe-16.04)  
+  
+Версия Xorg:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; xserver-xorg 1.18 (hwe-16.04)  
+   
+  
+ **Минимальные системные требования:**  
+  
+RAM - 512Mb  
+CPU - x86\_64  
+HDD - 4Gb  
+  
+  
+ **Скриншоты рабочего окружения:**  
+  
+[![](http://storage6.static.itmages.ru/i/17/0222/s_1487797646_9649934_b50a5b0706.png)](https://itmages.ru/image/view/5493772/b50a5b07)
+
+[![](http://storage5.static.itmages.ru/i/17/0222/s_1487797645_9389144_65e03298aa.png)](https://itmages.ru/image/view/5493771/65e03298)
+
+[![](http://storage5.static.itmages.ru/i/17/0222/s_1487797645_5685165_db03ee5c75.png)](https://itmages.ru/image/view/5493770/db03ee5c)  
+  
+======================================================  
+  
+ **Ссылки на загрузку:**  
+  
+Загрузить c [Sourceforge.net](https://sourceforge.net/projects/runtu/files/runtu%2016.04/XFCE/runtu-xfce-16.04.2-amd64_20170222.iso/download)  
+  
+Загрузить с [зеркала Яндекс](http://mirror.yandex.ru/runtu/runtu%2016.04/XFCE/runtu-xfce-16.04.2-amd64_20170222.iso)  
+  
+**Файл** :&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; runtu-xfce-16.04.2-amd64\_20170222.iso  
+  
+**Размер** :&nbsp; &nbsp; &nbsp; &nbsp;657 Мб  
+  
+**md5** :&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1e5ae21bea4a0cc74b05797318c07662
+
