@@ -1,4 +1,4 @@
-baseURL = "https://warpc.github.io/runtu-site-hugo/"
+baseURL = ""
 languageCode = "ru-Ru"
 title = "Runtu"
 theme = 'terrassa'
