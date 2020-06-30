@@ -1,34 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Новости on Runtu</title>
-    <link>https://warpc.github.io/runtu-site-hugo/posts/</link>
-    <description>Recent content in Новости on Runtu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ru-Ru</language>
-    <managingEditor>org@runtu.org (Runtu Team)</managingEditor>
-    <webMaster>org@runtu.org (Runtu Team)</webMaster>
-    <lastBuildDate>Sun, 07 Jun 2020 16:31:49 +0000</lastBuildDate>
-    
-	<atom:link href="https://warpc.github.io/runtu-site-hugo/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Релиз дистрибутива Runtu LITE 20.04 х64</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-2004-x64-news/</link>
-      <pubDate>Sun, 07 Jun 2020 16:31:49 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-2004-x64-news/</guid>
-      <description>&lt;p&gt;Представлен релиз 64-разрядного дистрибутива &lt;strong&gt;Runtu LITE 20.04 х64&lt;/strong&gt;, основой которого является пакетная база релиза &lt;strong&gt;Focal Fossa 20.04 LTS&lt;/strong&gt;. Сборка имеет базовый набор пользовательского ПО с возможностью установки на жёсткий диск.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Релиз дистрибутива Runtu LITE 18.04.3 х64</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-18043-x64-news/</link>
-      <pubDate>Thu, 12 Dec 2019 12:07:39 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-18043-x64-news/</guid>
-      <description>Представлен релиз 64-разрядного дистрибутива Runtu LITE 18.04.3 х64 , основой которого является пакетная база релиза Bionic Beaver 18.04.3 LTS. Сборка имеет базовый набор пользовательского ПО с возможностью установки на жёсткий диск.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Новости on Runtu</title><link>https://warpc.github.io/runtu-site-hugo/posts/</link><description>Recent content in Новости on Runtu</description><generator>Hugo -- gohugo.io</generator><language>ru-Ru</language><managingEditor>org@runtu.org (Runtu Team)</managingEditor><webMaster>org@runtu.org (Runtu Team)</webMaster><lastBuildDate>Sun, 07 Jun 2020 16:31:49 +0000</lastBuildDate><atom:link href="https://warpc.github.io/runtu-site-hugo/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Релиз дистрибутива Runtu LITE 20.04 х64</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-2004-x64-news/</link><pubDate>Sun, 07 Jun 2020 16:31:49 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-2004-x64-news/</guid><description>&lt;p>Представлен релиз 64-разрядного дистрибутива &lt;strong>Runtu LITE 20.04 х64&lt;/strong>, основой которого является пакетная база релиза &lt;strong>Focal Fossa 20.04 LTS&lt;/strong>. Сборка имеет базовый набор пользовательского ПО с возможностью установки на жёсткий диск.&lt;/p></description></item><item><title>Релиз дистрибутива Runtu LITE 18.04.3 х64</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-18043-x64-news/</link><pubDate>Thu, 12 Dec 2019 12:07:39 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-18043-x64-news/</guid><description>Представлен релиз 64-разрядного дистрибутива Runtu LITE 18.04.3 х64 , основой которого является пакетная база релиза Bionic Beaver 18.04.3 LTS. Сборка имеет базовый набор пользовательского ПО с возможностью установки на жёсткий диск.
 Основные элементы системы:
 Менеджер дисплея LightDM 1.26
 Оконный менеджер Openbox 3.6.1
@@ -37,25 +7,7 @@
 Менеджер сети NetworkManager 1.10.6 (pptp, l2tp, sstp, ssh, openvpn и vpnc)
 Текстовый редактор Geany 1.32
 Браузер Firefox 71.0
-Видеоплеер VLC 3.</description>
-    </item>
-    
-    <item>
-      <title>Релиз дистрибутива Runtu XFCE 18.04.3 x64</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-18043-news/</link>
-      <pubDate>Mon, 19 Aug 2019 20:53:14 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-18043-news/</guid>
-      <description>Представлена x64-версия дистрибутива Runtu XFCE 18.04 , основанная на пакетной базе релиза Bionic Beaver 18.04.3 LTS. В состав выпуска вошли улучшения, бэкпортированные из выпуска Ubuntu 19.04 : версия ядра Linux 5.0 и компоненты графического стека, актуализирована пакетная база. Дистрибутив собран с помощью debootstrap , установлена базовая система и рабочее окружение XFCE 4.12. В состав ПО включены средства для воспроизведения аудио- и видео-файлов, офисный пакет LibreОffice 6.3.0 , графический редактор Gimp 2.</description>
-    </item>
-    
-    <item>
-      <title>Релиз дистрибутива Runtu LITE 18.04.2 х64</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-18042-x64-news/</link>
-      <pubDate>Mon, 06 May 2019 09:47:02 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-18042-x64-news/</guid>
-      <description>Представлен релиз 64-разрядного дистрибутива Runtu LITE 18.04 х64 , основой которого является пакетная база релиза Bionic Beaver 18.04.2 LTS. Сборка имеет базовый набор пользовательского ПО с возможностью установки на жёсткий диск.
+Видеоплеер VLC 3.</description></item><item><title>Релиз дистрибутива Runtu XFCE 18.04.3 x64</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-18043-news/</link><pubDate>Mon, 19 Aug 2019 20:53:14 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-18043-news/</guid><description>Представлена x64-версия дистрибутива Runtu XFCE 18.04 , основанная на пакетной базе релиза Bionic Beaver 18.04.3 LTS. В состав выпуска вошли улучшения, бэкпортированные из выпуска Ubuntu 19.04 : версия ядра Linux 5.0 и компоненты графического стека, актуализирована пакетная база. Дистрибутив собран с помощью debootstrap , установлена базовая система и рабочее окружение XFCE 4.12. В состав ПО включены средства для воспроизведения аудио- и видео-файлов, офисный пакет LibreОffice 6.3.0 , графический редактор Gimp 2.</description></item><item><title>Релиз дистрибутива Runtu LITE 18.04.2 х64</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-18042-x64-news/</link><pubDate>Mon, 06 May 2019 09:47:02 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-18042-x64-news/</guid><description>Представлен релиз 64-разрядного дистрибутива Runtu LITE 18.04 х64 , основой которого является пакетная база релиза Bionic Beaver 18.04.2 LTS. Сборка имеет базовый набор пользовательского ПО с возможностью установки на жёсткий диск.
 Основные элементы системы:
 Менеджер дисплея LightDM 1.26
 Оконный менеджер Openbox 3.6.1
@@ -64,16 +16,7 @@
 Менеджер сети NetworkManager 1.10.6 (pptp, l2tp, sstp, ssh, openvpn и vpnc)
 Текстовый редактор Geany 1.32
 Браузер Firefox 66.0.3
-Видеоплеер VLC 3.</description>
-    </item>
-    
-    <item>
-      <title>Релиз дистрибутива Runtu LITE 18.04 х64</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1804-x64-news/</link>
-      <pubDate>Thu, 02 Aug 2018 09:32:11 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1804-x64-news/</guid>
-      <description>Представлен релиз 64-разрядного дистрибутива Runtu LITE 18.04 х64 , основой которого является пакетная база релиза Bionic Beaver 18.04.1 LTS. Сборка имеет минимальный набор пользовательского ПО с возможностью установки на жёсткий диск.
+Видеоплеер VLC 3.</description></item><item><title>Релиз дистрибутива Runtu LITE 18.04 х64</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1804-x64-news/</link><pubDate>Thu, 02 Aug 2018 09:32:11 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1804-x64-news/</guid><description>Представлен релиз 64-разрядного дистрибутива Runtu LITE 18.04 х64 , основой которого является пакетная база релиза Bionic Beaver 18.04.1 LTS. Сборка имеет минимальный набор пользовательского ПО с возможностью установки на жёсткий диск.
 Основные элементы системы:
 Менеджер дисплея LightDM 1.26
 Оконный менеджер Openbox 3.6.1
@@ -82,294 +25,47 @@
 Менеджер сети NetworkManager 1.10.6 (pptp, l2tp, sstp, openvpn и vpnc)
 Браузер Firefox 61.0.1
 Видеоплеер VLC 3.0.2
-Аудиоплеер DeaDBeeF 0.7.2</description>
-    </item>
-    
-    <item>
-      <title>Релиз дистрибутива Runtu LITE 18.04</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1804-news/</link>
-      <pubDate>Mon, 28 May 2018 07:36:17 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1804-news/</guid>
-      <description>Представлен релиз 32-разрядного дистрибутива Runtu LITE 18.04 , основой которого является пакетная база релиза Bionic Beaver 18.04 LTS. Сборка имеет минимальный набор пользовательского ПО с возможностью установки на жёсткий диск. В составе предустановлены программы для работы с Интернет, воспроизведение аудио- и видеоконтента, настройки рабочего окружения.
+Аудиоплеер DeaDBeeF 0.7.2</description></item><item><title>Релиз дистрибутива Runtu LITE 18.04</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1804-news/</link><pubDate>Mon, 28 May 2018 07:36:17 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1804-news/</guid><description>Представлен релиз 32-разрядного дистрибутива Runtu LITE 18.04 , основой которого является пакетная база релиза Bionic Beaver 18.04 LTS. Сборка имеет минимальный набор пользовательского ПО с возможностью установки на жёсткий диск. В составе предустановлены программы для работы с Интернет, воспроизведение аудио- и видеоконтента, настройки рабочего окружения.
 Основные элементы системы:
 Менеджер дисплея LightDM 1.26
 Оконный менеджер Openbox 3.6.1
 Файловый менеджер PCManFM 1.2.5
 Панель рабочего стола LXPanel 0.9.3
-Менеджер сети NetworkManager 1.10.6 (pptp, l2tp, sstp, openvpn и vpnc)</description>
-    </item>
-    
-    <item>
-      <title>Релиз дистрибутива Runtu XFCE 16.04.3 x64</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-16043-x64-news/</link>
-      <pubDate>Mon, 07 Aug 2017 08:46:43 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-16043-x64-news/</guid>
-      <description>Представлена x64-версию дистрибутива Runtu XFCE 16.04 , основанная на пакетной базе релиза Xenial Xerus 16.04.3 LTS. Дистрибутив собран с помощью debootstrap , установлена базовая система и рабочее окружение XFCE 4.12. В состав ПО включены средства для воспроизведения аудио- и видео-файлов, офисный пакет LibreОffice 5.4 , графический редактор Gimp 2.8.16 , подсистема печати. Для работы с Интернет предустановлены браузер Firefox 54 , менеджер загрузок uGet , торрент-клиент Transmission , почтовый клиент Sylpheed.</description>
-    </item>
-    
-    <item>
-      <title>Релиз дистрибутива Runtu XFCE 16.04.2 x64</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-16042-x64-news/</link>
-      <pubDate>Wed, 22 Feb 2017 21:41:26 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-16042-x64-news/</guid>
-      <description>Представлена x64-версия дистрибутива Runtu XFCE 16.04 , основанная на пакетной базе релиза Xenial Xerus 16.04.2 LTS. Дистрибутив собран с помощью debootstrap , установлена базовая система и рабочее окружение XFCE 4.12. В состав ПО включены средства для воспроизведения аудио- и видео-файлов, офисный пакет LibreОffice , подсистема печати. Для работы с Интернет предустановлены браузер Firefox , менеджер загрузок uGet , торрент-клиент Transmission , почтовый клиент Sylpheed. Системное ПО позволяет осуществить настройку параметров рабочего окружения и администрирование.</description>
-    </item>
-    
-    <item>
-      <title>Релиз дистрибутива XFCE 16.04</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-1604-news/</link>
-      <pubDate>Wed, 03 Aug 2016 06:28:35 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-1604-news/</guid>
-      <description>Представлен дистрибутив Runtu XFCE 16.04 , основанный на пакетной базе релиза Xenial Xerus 16.04.1 LTS. Дистрибутив собран с помощью debootstrap , установлена базовая система и рабочее окружение XFCE 4.12. В состав ПО включены средства для воспроизведения аудио- и видео-файлов, офисный пакет LibreОffice , подсистема печати. Для работы с Интернет предустановлены браузер Firefox , менеджер загрузок uGet , торрент-клиент Transmission , коммуникатор Skype. Системное ПО позволяет осуществить настройку параметров рабочего окружения и администрирование.</description>
-    </item>
-    
-    <item>
-      <title>Релиз 64-разрядной версии Runtu</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfcee-14042-x64news/</link>
-      <pubDate>Wed, 15 Jul 2015 14:56:33 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfcee-14042-x64news/</guid>
-      <description>Выпущен релиз дистрибутива Runtu XFCE 14.04.2 с поддержкой архитектуры x86-64 (AMD64), основанный на пакетной базе релиза Trusty Tahr 14.04.2 LTS. Дистрибутив собран с помощью debootstrap , установлена базовая система и рабочее окружение XFCE 4.12 из репозитория xubuntu-dev. В состав ПО включены средства для воспроизведения аудио- и видео-файлов, текстовый процессор LibreОffice , подсистема печати. Для работы с Интернет предустановлены браузер Firefox , менеджер загрузок uGet , торрент-клиент Transmission , коммуникатор Skype. Системное ПО позволяет осуществить настройку параметров рабочего окружения и администрирование.</description>
-    </item>
-    
-    <item>
-      <title>Плановое обновление Runtu c DE XFCE4</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-c-de-xfce4/</link>
-      <pubDate>Wed, 11 Mar 2015 11:43:07 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-c-de-xfce4/</guid>
-      <description>Выпущено обновление дистрибутива Runtu c окружением рабочего стола XFCE 4.12, использующего пакетную базу Ubuntu 14.04.2 LTS.
+Менеджер сети NetworkManager 1.10.6 (pptp, l2tp, sstp, openvpn и vpnc)</description></item><item><title>Релиз дистрибутива Runtu XFCE 16.04.3 x64</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-16043-x64-news/</link><pubDate>Mon, 07 Aug 2017 08:46:43 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-16043-x64-news/</guid><description>Представлена x64-версию дистрибутива Runtu XFCE 16.04 , основанная на пакетной базе релиза Xenial Xerus 16.04.3 LTS. Дистрибутив собран с помощью debootstrap , установлена базовая система и рабочее окружение XFCE 4.12. В состав ПО включены средства для воспроизведения аудио- и видео-файлов, офисный пакет LibreОffice 5.4 , графический редактор Gimp 2.8.16 , подсистема печати. Для работы с Интернет предустановлены браузер Firefox 54 , менеджер загрузок uGet , торрент-клиент Transmission , почтовый клиент Sylpheed.</description></item><item><title>Релиз дистрибутива Runtu XFCE 16.04.2 x64</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-16042-x64-news/</link><pubDate>Wed, 22 Feb 2017 21:41:26 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-16042-x64-news/</guid><description>Представлена x64-версия дистрибутива Runtu XFCE 16.04 , основанная на пакетной базе релиза Xenial Xerus 16.04.2 LTS. Дистрибутив собран с помощью debootstrap , установлена базовая система и рабочее окружение XFCE 4.12. В состав ПО включены средства для воспроизведения аудио- и видео-файлов, офисный пакет LibreОffice , подсистема печати. Для работы с Интернет предустановлены браузер Firefox , менеджер загрузок uGet , торрент-клиент Transmission , почтовый клиент Sylpheed. Системное ПО позволяет осуществить настройку параметров рабочего окружения и администрирование.</description></item><item><title>Релиз дистрибутива XFCE 16.04</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-1604-news/</link><pubDate>Wed, 03 Aug 2016 06:28:35 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-1604-news/</guid><description>Представлен дистрибутив Runtu XFCE 16.04 , основанный на пакетной базе релиза Xenial Xerus 16.04.1 LTS. Дистрибутив собран с помощью debootstrap , установлена базовая система и рабочее окружение XFCE 4.12. В состав ПО включены средства для воспроизведения аудио- и видео-файлов, офисный пакет LibreОffice , подсистема печати. Для работы с Интернет предустановлены браузер Firefox , менеджер загрузок uGet , торрент-клиент Transmission , коммуникатор Skype. Системное ПО позволяет осуществить настройку параметров рабочего окружения и администрирование.</description></item><item><title>Релиз 64-разрядной версии Runtu</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfcee-14042-x64news/</link><pubDate>Wed, 15 Jul 2015 14:56:33 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfcee-14042-x64news/</guid><description>Выпущен релиз дистрибутива Runtu XFCE 14.04.2 с поддержкой архитектуры x86-64 (AMD64), основанный на пакетной базе релиза Trusty Tahr 14.04.2 LTS. Дистрибутив собран с помощью debootstrap , установлена базовая система и рабочее окружение XFCE 4.12 из репозитория xubuntu-dev. В состав ПО включены средства для воспроизведения аудио- и видео-файлов, текстовый процессор LibreОffice , подсистема печати. Для работы с Интернет предустановлены браузер Firefox , менеджер загрузок uGet , торрент-клиент Transmission , коммуникатор Skype. Системное ПО позволяет осуществить настройку параметров рабочего окружения и администрирование.</description></item><item><title>Плановое обновление Runtu c DE XFCE4</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-c-de-xfce4/</link><pubDate>Wed, 11 Mar 2015 11:43:07 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-c-de-xfce4/</guid><description>Выпущено обновление дистрибутива Runtu c окружением рабочего стола XFCE 4.12, использующего пакетную базу Ubuntu 14.04.2 LTS.
 Для загрузки доступны две версии дистрибутива:
 runtu-xfce-14.04.2-3.13_20150309
 runtu-xfce-14.04.2-3.16_20150309
 Состав и версии ПО идентичны, отличие только в используемом ядре - linux-generic 3.13 в первом случае и linux-generic-lts-utopic 3.16 во втором.
-Обсуждение дистрибутива, как всегда, на форуме, в разделе &amp;ldquo;Тестирование&amp;rdquo;.</description>
-    </item>
-    
-    <item>
-      <title>Обновлены сборки</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/2014-02-21-06-35-04/</link>
-      <pubDate>Sun, 18 May 2014 21:00:00 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/2014-02-21-06-35-04/</guid>
-      <description>Представлен дистрибутив Runtu XFCE 14.04.2, основанный на пакетной базе LTS релиза Trusty Tahr 14.04.2 с окружением XFCE 4.12. Подробнее&amp;hellip;
+Обсуждение дистрибутива, как всегда, на форуме, в разделе &amp;ldquo;Тестирование&amp;rdquo;.</description></item><item><title>Обновлены сборки</title><link>https://warpc.github.io/runtu-site-hugo/posts/2014-02-21-06-35-04/</link><pubDate>Sun, 18 May 2014 21:00:00 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/2014-02-21-06-35-04/</guid><description>Представлен дистрибутив Runtu XFCE 14.04.2, основанный на пакетной базе LTS релиза Trusty Tahr 14.04.2 с окружением XFCE 4.12. Подробнее&amp;hellip;
 Представлен дистрибутив Runtu LITE 14.04.1, основанный на пакетной базе LTS релиза Trusty Tahr 14.04.1. Подробнее&amp;hellip;
 Представлен дистрибутив Runtu XFCE 14.04, основанный на пакетной базе LTS релиза Trusty Tahr 14.04. Подробнее&amp;hellip;
 Представлен дистрибутив Runtu LITE 14.04, основанный на пакетной базе LTS релиза Trusty Tahr 14.04. Подробнее&amp;hellip;
-Представлен дистрибутив Runtu GNOME 12.04, обновлённый до текущей версии 12.</description>
-    </item>
-    
-    <item>
-      <title>Обновлены версии</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/2014-02-12-10-04-34/</link>
-      <pubDate>Wed, 12 Feb 2014 10:02:49 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/2014-02-12-10-04-34/</guid>
-      <description>Обновлены версии дистрибутивов до пакетной базы 12.04.4 LTS:
+Представлен дистрибутив Runtu GNOME 12.04, обновлённый до текущей версии 12.</description></item><item><title>Обновлены версии</title><link>https://warpc.github.io/runtu-site-hugo/posts/2014-02-12-10-04-34/</link><pubDate>Wed, 12 Feb 2014 10:02:49 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/2014-02-12-10-04-34/</guid><description>Обновлены версии дистрибутивов до пакетной базы 12.04.4 LTS:
 Runtu GNOME 12.04.4
 Runtu XFCE 12.04.4
 Runtu LITE 12.04.4
-Подробности&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Концепция Runtu LITE 14.04</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1404/</link>
-      <pubDate>Wed, 04 Dec 2013 05:07:23 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1404/</guid>
-      <description>Представлена концепция сборки LITE на базе разрабатываемого дистрибутива Ubuntu 14.04 LTS. Сборка предназначена в первую очередь для ознакомления с направлением развития версии LITE и тестирования текущих изменений родительского дистрибутива.
-Подробнее&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Runtu LITE 12.04.3 - 20131010</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-12043-20131010/</link>
-      <pubDate>Fri, 11 Oct 2013 04:51:25 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-12043-20131010/</guid>
-      <description>Представлено плановое обновление дистрибутива Runtu LITE 12.04, основанного на пакетной базе Ubuntu 12.04.3. Основным отличием от предыдущих выпусков является переход к версии ядра Linux 3.8 и обновление графического стека Xorg до версий из состава Ubuntu 13.04.
-Подробнее&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Runtu GNOME 12.04 - 201308</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-gnome-1204-201308/</link>
-      <pubDate>Sat, 10 Aug 2013 14:04:53 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-gnome-1204-201308/</guid>
-      <description>Представлена обновленная версия дистрибутива Runtu GNOME 12.04, собранного на базе Ubuntu 12.04.2. В качестве сессии по-умолчанию используется сессия Gnome-Fallback с одной нижней панелью и классическим меню.
-Подробнее&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Runtu LITE 12.04.2 - 20130408</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-12042-20130408/</link>
-      <pubDate>Mon, 08 Apr 2013 08:19:42 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-12042-20130408/</guid>
-      <description>Представлен обновленный дистрибутив Runtu LITE на базе Ubuntu 12.04.2 с оконным менеджером Openbox и файловым менеджером Caja из проекта MATE. Сборка выпущена с целью интеграции в систему компонентов MATE до версии 1.6. Установлены бэкпортированные версии пакетов из Quantal 12.10 - ядро Linux 3.5 и Xorg 1.13, обновлены утилиты для настройки системы.
-Подробнее&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Runtu XFCE 12.04 - 201303</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-1204-201303/</link>
-      <pubDate>Tue, 19 Mar 2013 09:48:14 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-1204-201303/</guid>
-      <description>Представлен обновленный дистрибутив Runtu XFCE
-Подробнее&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Runtu LITE 12.04 - 20130310</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1204-20130310/</link>
-      <pubDate>Mon, 11 Mar 2013 04:31:08 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1204-20130310/</guid>
-      <description>Представлена версия дистрибутива Runtu LITE на базе Ubuntu 12.04.2 с оконным менеджером Openbox и файловым менеджером Caja из проекта MATE. В сборке установлены бэкпортированные компоненты релиза Quantal 12.10 - ядро Linux 3.5 и Xorg 1.13, обновлены версии утилит для настройки системы.
-Подробнее&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Runtu LITE 10.04 - 201302</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1004-201302/</link>
-      <pubDate>Wed, 13 Feb 2013 04:27:56 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1004-201302/</guid>
-      <description>Обновлена сборка Runtu LITE 10.04. Основная цель выпуска - минимизация загружаемых обновлений при новой установке, объём которых с момента выхода предыдущей версии приближается к размеру установочного образа. Подробнее&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Runtu XFCE 12.04 - 201301</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-1204-201301/</link>
-      <pubDate>Thu, 17 Jan 2013 06:43:23 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-1204-201301/</guid>
-      <description>Представлено очередное обновление дистрибутива Runtu XFCE, основанного на пакетной базе Ubuntu 12.04 LTS и использующего в качестве рабочего окружения DE Xfce 4.10. Целью данной версии является адаптация сборки в соответствии с пожеланиями пользователей и обновление пакетной базы.
-Подробнее&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>LITE 12.04 - 20121109</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/lite-1204-20121109/</link>
-      <pubDate>Fri, 09 Nov 2012 16:16:42 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/lite-1204-20121109/</guid>
-      <description>Представлена обновлённая версия дистрибутива LITE на базе Ubuntu 12.04 с оконным менеджером Openbox и файловым менеджером Caja из проекта MATE. Проведена доработка состава программного обеспечения и пользовательского окружения, обновлены версии утилит для настройки системы. Подробнее&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>LITE 12.04 Openbox &#43; Caja</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/lite-1204-openbox-caja/</link>
-      <pubDate>Mon, 22 Oct 2012 08:14:00 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/lite-1204-openbox-caja/</guid>
-      <description>Представлена тестовая версия минимальной сборки дистрибутива на пакетной базе Ubuntu 12.04 с оконным менеджером Openbox и файловым менеджером Caja из проекта MATE. Дистрибутив предназначен для оценки данной конфигурации в качестве пользовательского окружения и рекомендован для пользователей с навыками установки и настройки ПО.
-Подробнее&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Runtu XFCE 12.04 - 201209</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-1204-201209/</link>
-      <pubDate>Mon, 01 Oct 2012 19:52:27 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-1204-201209/</guid>
-      <description>Представлена обновлённая версия дистрибутива Runtu XFCE, основанная на пакетной базе Ubuntu 12.04 LTS. Дистрибутив по сравнению с предыдущей версией имеет &amp;ldquo;более офисную&amp;rdquo; направленность - дополнен поддержкой печати и сканирования, обновлён пакет Libreoffice до версии 3.6, установлен Gimp 2.8.2
-Подробнее&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Стабильная версия дистрибутива с окружением XFCE</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/xfce-1204-201207/</link>
-      <pubDate>Wed, 18 Jul 2012 09:06:56 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/xfce-1204-201207/</guid>
-      <description>Представлена стабильная версия дистрибутива с окружением XFCE, основанная на пакетной базе Ubuntu 12.04 LTS.
+Подробности&amp;hellip;</description></item><item><title>Концепция Runtu LITE 14.04</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1404/</link><pubDate>Wed, 04 Dec 2013 05:07:23 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1404/</guid><description>Представлена концепция сборки LITE на базе разрабатываемого дистрибутива Ubuntu 14.04 LTS. Сборка предназначена в первую очередь для ознакомления с направлением развития версии LITE и тестирования текущих изменений родительского дистрибутива.
+Подробнее&amp;hellip;</description></item><item><title>Runtu LITE 12.04.3 - 20131010</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-12043-20131010/</link><pubDate>Fri, 11 Oct 2013 04:51:25 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-12043-20131010/</guid><description>Представлено плановое обновление дистрибутива Runtu LITE 12.04, основанного на пакетной базе Ubuntu 12.04.3. Основным отличием от предыдущих выпусков является переход к версии ядра Linux 3.8 и обновление графического стека Xorg до версий из состава Ubuntu 13.04.
+Подробнее&amp;hellip;</description></item><item><title>Runtu GNOME 12.04 - 201308</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-gnome-1204-201308/</link><pubDate>Sat, 10 Aug 2013 14:04:53 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-gnome-1204-201308/</guid><description>Представлена обновленная версия дистрибутива Runtu GNOME 12.04, собранного на базе Ubuntu 12.04.2. В качестве сессии по-умолчанию используется сессия Gnome-Fallback с одной нижней панелью и классическим меню.
+Подробнее&amp;hellip;</description></item><item><title>Runtu LITE 12.04.2 - 20130408</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-12042-20130408/</link><pubDate>Mon, 08 Apr 2013 08:19:42 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-12042-20130408/</guid><description>Представлен обновленный дистрибутив Runtu LITE на базе Ubuntu 12.04.2 с оконным менеджером Openbox и файловым менеджером Caja из проекта MATE. Сборка выпущена с целью интеграции в систему компонентов MATE до версии 1.6. Установлены бэкпортированные версии пакетов из Quantal 12.10 - ядро Linux 3.5 и Xorg 1.13, обновлены утилиты для настройки системы.
+Подробнее&amp;hellip;</description></item><item><title>Runtu XFCE 12.04 - 201303</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-1204-201303/</link><pubDate>Tue, 19 Mar 2013 09:48:14 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-1204-201303/</guid><description>Представлен обновленный дистрибутив Runtu XFCE
+Подробнее&amp;hellip;</description></item><item><title>Runtu LITE 12.04 - 20130310</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1204-20130310/</link><pubDate>Mon, 11 Mar 2013 04:31:08 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1204-20130310/</guid><description>Представлена версия дистрибутива Runtu LITE на базе Ubuntu 12.04.2 с оконным менеджером Openbox и файловым менеджером Caja из проекта MATE. В сборке установлены бэкпортированные компоненты релиза Quantal 12.10 - ядро Linux 3.5 и Xorg 1.13, обновлены версии утилит для настройки системы.
+Подробнее&amp;hellip;</description></item><item><title>Runtu LITE 10.04 - 201302</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1004-201302/</link><pubDate>Wed, 13 Feb 2013 04:27:56 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1004-201302/</guid><description>Обновлена сборка Runtu LITE 10.04. Основная цель выпуска - минимизация загружаемых обновлений при новой установке, объём которых с момента выхода предыдущей версии приближается к размеру установочного образа. Подробнее&amp;hellip;</description></item><item><title>Runtu XFCE 12.04 - 201301</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-1204-201301/</link><pubDate>Thu, 17 Jan 2013 06:43:23 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-1204-201301/</guid><description>Представлено очередное обновление дистрибутива Runtu XFCE, основанного на пакетной базе Ubuntu 12.04 LTS и использующего в качестве рабочего окружения DE Xfce 4.10. Целью данной версии является адаптация сборки в соответствии с пожеланиями пользователей и обновление пакетной базы.
+Подробнее&amp;hellip;</description></item><item><title>LITE 12.04 - 20121109</title><link>https://warpc.github.io/runtu-site-hugo/posts/lite-1204-20121109/</link><pubDate>Fri, 09 Nov 2012 16:16:42 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/lite-1204-20121109/</guid><description>Представлена обновлённая версия дистрибутива LITE на базе Ubuntu 12.04 с оконным менеджером Openbox и файловым менеджером Caja из проекта MATE. Проведена доработка состава программного обеспечения и пользовательского окружения, обновлены версии утилит для настройки системы. Подробнее&amp;hellip;</description></item><item><title>LITE 12.04 Openbox + Caja</title><link>https://warpc.github.io/runtu-site-hugo/posts/lite-1204-openbox-caja/</link><pubDate>Mon, 22 Oct 2012 08:14:00 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/lite-1204-openbox-caja/</guid><description>Представлена тестовая версия минимальной сборки дистрибутива на пакетной базе Ubuntu 12.04 с оконным менеджером Openbox и файловым менеджером Caja из проекта MATE. Дистрибутив предназначен для оценки данной конфигурации в качестве пользовательского окружения и рекомендован для пользователей с навыками установки и настройки ПО.
+Подробнее&amp;hellip;</description></item><item><title>Runtu XFCE 12.04 - 201209</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-1204-201209/</link><pubDate>Mon, 01 Oct 2012 19:52:27 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-1204-201209/</guid><description>Представлена обновлённая версия дистрибутива Runtu XFCE, основанная на пакетной базе Ubuntu 12.04 LTS. Дистрибутив по сравнению с предыдущей версией имеет &amp;ldquo;более офисную&amp;rdquo; направленность - дополнен поддержкой печати и сканирования, обновлён пакет Libreoffice до версии 3.6, установлен Gimp 2.8.2
+Подробнее&amp;hellip;</description></item><item><title>Стабильная версия дистрибутива с окружением XFCE</title><link>https://warpc.github.io/runtu-site-hugo/posts/xfce-1204-201207/</link><pubDate>Wed, 18 Jul 2012 09:06:56 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/xfce-1204-201207/</guid><description>Представлена стабильная версия дистрибутива с окружением XFCE, основанная на пакетной базе Ubuntu 12.04 LTS.
 В сборке вместо штатной в репозиториях 12.04 версии XFCE 4.8 установлена версия XFCE 4.10 из PPA “Xubuntu Developers” team. В состав дистрибутива входят основные компоненты DE и базовый набор ПО - офисный пакет, интернет-браузер, мессенджер, аудио- и видеоплеер, утилиты конфигурирования.
-Подребнее&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Runtu Gnome 12.04 - 201206</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-gnome-1204-201206/</link>
-      <pubDate>Wed, 27 Jun 2012 12:33:27 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-gnome-1204-201206/</guid>
-      <description>Представлена обновлённая версия сборки Runtu Gnome 12.04 с окружением Gnome Fallback
-Подробнее&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Стабильная сборка Runtu Gnome 12.04</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-gnome-1204-201205/</link>
-      <pubDate>Mon, 28 May 2012 05:10:03 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-gnome-1204-201205/</guid>
-      <description>Представлена стабильная сборка дистрибутива с окружением Gnome-Fallback, основанная на пакетной базе Ubuntu 12.04 LTS.
+Подребнее&amp;hellip;</description></item><item><title>Runtu Gnome 12.04 - 201206</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-gnome-1204-201206/</link><pubDate>Wed, 27 Jun 2012 12:33:27 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-gnome-1204-201206/</guid><description>Представлена обновлённая версия сборки Runtu Gnome 12.04 с окружением Gnome Fallback
+Подробнее&amp;hellip;</description></item><item><title>Стабильная сборка Runtu Gnome 12.04</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-gnome-1204-201205/</link><pubDate>Mon, 28 May 2012 05:10:03 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-gnome-1204-201205/</guid><description>Представлена стабильная сборка дистрибутива с окружением Gnome-Fallback, основанная на пакетной базе Ubuntu 12.04 LTS.
 Система собрана с помощью debootstrap, в состав включены основные компоненты DE (менеджер дисплея, оконный менеджер, файловый менеджер, панель, утилиты конфигурирования) и базовый набор ПО - интернет-браузер, мессенджер, аудио- и видеоплеер, офисный пакет.
-Подробне&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Тестовая сборка Runtu Gnome 12.04</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/gnome-fallback-1204-20120327/</link>
-      <pubDate>Wed, 28 Mar 2012 05:18:52 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/gnome-fallback-1204-20120327/</guid>
-      <description>Представлена тестовая сборка дистрибутива с окружением Gnome-Fallback, основанная на пакетной базе Ubuntu 12.04 LTS.
+Подробне&amp;hellip;</description></item><item><title>Тестовая сборка Runtu Gnome 12.04</title><link>https://warpc.github.io/runtu-site-hugo/posts/gnome-fallback-1204-20120327/</link><pubDate>Wed, 28 Mar 2012 05:18:52 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/gnome-fallback-1204-20120327/</guid><description>Представлена тестовая сборка дистрибутива с окружением Gnome-Fallback, основанная на пакетной базе Ubuntu 12.04 LTS.
 Система собрана с помощью debootstrap, в состав включены основные компоненты DE (менеджер дисплея, оконный менеджер, файловый менеджер, панель, утилиты конфигурирования) и базовый набор ПО - интернет-браузер, мессенджер, аудио- и видеоплеер (офисный пакет отсутствует)
-Подробнее&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Тестовая сборка Runtu XFCE 12.04</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-1204-20120319/</link>
-      <pubDate>Wed, 21 Mar 2012 05:00:37 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-1204-20120319/</guid>
-      <description>Представлена тестовая сборка дистрибутива с окружением XFCE, основанная на пакетной базе Ubuntu 12.04 LTS. Система собрана с помощью debootstrap, в состав включены основные компоненты DE (менеджер дисплея, оконный менеджер, файловый менеджер, панель, утилиты конфигурирования) и базовый набор ПО - офисный пакет, интернет-браузер, мессенджер, аудио- и видеоплеер.
-Подробнее читайте на форуме&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Тестовая сборка на базе Ubuntu 11.10</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/ubuntu-1110/</link>
-      <pubDate>Tue, 18 Oct 2011 17:47:01 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/ubuntu-1110/</guid>
-      <description>Представлена тестовая сборка, основанная на пакетной базе дистрибутива Ubuntu 11.10.
-Подробности читайте на форуме&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Обновление сборки Runtu Lite</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1004/</link>
-      <pubDate>Tue, 12 Jul 2011 14:36:15 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1004/</guid>
-      <description>Обновлена сборка Runtu Lite.
-Подробности читайте на форуме</description>
-    </item>
-    
-    <item>
-      <title>Открыт набор в команду разработчиков проекта Runtu.org</title>
-      <link>https://warpc.github.io/runtu-site-hugo/posts/nabor-v-komandu-runtu/</link>
-      <pubDate>Wed, 27 Jan 2010 14:21:10 +0000</pubDate>
-      <author>org@runtu.org (Runtu Team)</author>
-      <guid>https://warpc.github.io/runtu-site-hugo/posts/nabor-v-komandu-runtu/</guid>
-      <description>Уважаемые пользователи и посетители ресурса Runtu.org,
+Подробнее&amp;hellip;</description></item><item><title>Тестовая сборка Runtu XFCE 12.04</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-1204-20120319/</link><pubDate>Wed, 21 Mar 2012 05:00:37 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-xfce-1204-20120319/</guid><description>Представлена тестовая сборка дистрибутива с окружением XFCE, основанная на пакетной базе Ubuntu 12.04 LTS. Система собрана с помощью debootstrap, в состав включены основные компоненты DE (менеджер дисплея, оконный менеджер, файловый менеджер, панель, утилиты конфигурирования) и базовый набор ПО - офисный пакет, интернет-браузер, мессенджер, аудио- и видеоплеер.
+Подробнее читайте на форуме&amp;hellip;</description></item><item><title>Тестовая сборка на базе Ubuntu 11.10</title><link>https://warpc.github.io/runtu-site-hugo/posts/ubuntu-1110/</link><pubDate>Tue, 18 Oct 2011 17:47:01 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/ubuntu-1110/</guid><description>Представлена тестовая сборка, основанная на пакетной базе дистрибутива Ubuntu 11.10.
+Подробности читайте на форуме&amp;hellip;</description></item><item><title>Обновление сборки Runtu Lite</title><link>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1004/</link><pubDate>Tue, 12 Jul 2011 14:36:15 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/runtu-lite-1004/</guid><description>Обновлена сборка Runtu Lite.
+Подробности читайте на форуме</description></item><item><title>Открыт набор в команду разработчиков проекта Runtu.org</title><link>https://warpc.github.io/runtu-site-hugo/posts/nabor-v-komandu-runtu/</link><pubDate>Wed, 27 Jan 2010 14:21:10 +0000</pubDate><author>org@runtu.org (Runtu Team)</author><guid>https://warpc.github.io/runtu-site-hugo/posts/nabor-v-komandu-runtu/</guid><description>Уважаемые пользователи и посетители ресурса Runtu.org,
 открывается набор в команду Runtu.org. Мы ищем талантливых программистов, которые заинтересованы в разработке ОС Runtu и других программных продуктов. Цель 1: формирование команды разработчиков, которой не безразлично СПО.
 Цель 2: создание удобной и качественной ОС Runtu.
 Цель 3: создание актуальных решений, которые были бы полезны как домашнему пользователю, так и коммерческим организациям.
 В резюме необходимо указать:
- ФИО Контактные данные Опыт программирования под Linux В каких проектах принимали участие Есть ли готовые решения, если есть, указать ссылку Какие языки программирования знаете Сколько времени готовы уделять проекту Что Вы ждете от участия в проекте  Резюме направлять по адресу org@runtu.</description>
-    </item>
-    
-  </channel>
-</rss>
+ФИО Контактные данные Опыт программирования под Linux В каких проектах принимали участие Есть ли готовые решения, если есть, указать ссылку Какие языки программирования знаете Сколько времени готовы уделять проекту Что Вы ждете от участия в проекте Резюме направлять по адресу org@runtu.</description></item></channel></rss>
