@@ -6,6 +6,13 @@ enableRobotsTXT = true
 paginate = 10
 googleAnalytics = 'UA-6171888-2'
 
+[outputs]
+  home = [ "HTML", "RSS", "Sitemap"]
+
+[author]
+  name =  'Runtu Team'
+  email = 'org@runtu.org'
+
 [params]
   description = "Runtu — быстрый и лёгкий Linux на русском"
   mainSections = ["post"]
