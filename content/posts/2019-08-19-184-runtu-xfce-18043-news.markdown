@@ -10,21 +10,21 @@ aliases:
 
 **Основные элементы системы:**
 
-Менеджер дисплея               LightDM  
-Оконный менеджер               XFWM  
-Файловый менеджер            Thunar 1.6.15  
-Панель рабочего стола          xfce4-panel 4.12  
-Менеджер сети                       NetworkManager (pptp, l2tp, vpnc, sstp, ssh, OpenVPN)  
-Текстовый редактор              Geany 1.32  
-Графический редактор         Gimp 2.10.12  
-Браузер                                     Firefox 68.0.2  
-Почтовый клиент                   Thunderbird 60.8.0  
-Видеоплеер                             VLC 3.0.7  
-Аудиоплеер                             DeaDBeeF 1.8.2
+Менеджер дисплея             LightDM  
+Оконный менеджер            XFWM  
+Файловый менеджер         Thunar 1.6.15  
+Панель рабочего стола       xfce4-panel 4.12  
+Менеджер сети                     NetworkManager (pptp, l2tp, vpnc, sstp, ssh, OpenVPN)  
+Текстовый редактор           Geany 1.32  
+Графический редактор       Gimp 2.10.12  
+Браузер                                   Firefox 68.0.2  
+Почтовый клиент                 Thunderbird 60.8.0  
+Видеоплеер                           VLC 3.0.7  
+Аудиоплеер                           DeaDBeeF 1.8.2
 
-Менеджер питания                xfce4-power-manager  
-Звуковой сервер                    Pulseaudio  
-Менеджер Bluetooth             Blueman
+Менеджер питания             xfce4-power-manager  
+Звуковой сервер                  Pulseaudio  
+Менеджер Bluetooth           Blueman
 
 Версия ядра:                       linux-generic 5.0.0-25  
 Версия Xorg:                       xserver-xorg 1.20.4
