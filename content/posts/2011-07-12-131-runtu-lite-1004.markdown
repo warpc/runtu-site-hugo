@@ -2,7 +2,7 @@
 title: Обновление сборки Runtu Lite
 date: 2011-07-12 14:36:15.000000000 +00:00
 draft: false
-slug: "-runtu-lite"
+slug: "runtu-lite-1004"
 aliases:
 - "/news-project/-runtu-lite.html"
 ---

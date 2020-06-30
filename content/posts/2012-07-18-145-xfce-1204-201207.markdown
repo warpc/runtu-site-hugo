@@ -2,7 +2,7 @@
 title: Стабильная версия дистрибутива с окружением XFCE
 date: 2012-07-18 09:06:56.000000000 +00:00
 draft: false
-slug: "-xfce"
+slug: "xfce-1204-201207"
 aliases:
 - "/news-project/-xfce.html"
 ---

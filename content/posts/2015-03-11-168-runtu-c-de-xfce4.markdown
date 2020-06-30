@@ -2,7 +2,7 @@
 title: Плановое обновление Runtu c DE XFCE4
 date: 2015-03-11 11:43:07.000000000 +00:00
 draft: false
-slug: "-runtu-c-de-xfce4"
+slug: "runtu-c-de-xfce4"
 aliases:
 - "/news-project/-runtu-c-de-xfce4.html"
 ---

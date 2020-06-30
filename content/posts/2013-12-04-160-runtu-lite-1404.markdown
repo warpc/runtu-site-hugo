@@ -2,7 +2,7 @@
 title: Концепция Runtu LITE 14.04
 date: 2013-12-04 05:07:23.000000000 +00:00
 draft: false
-slug: "-runtu-lite-1404"
+slug: "runtu-lite-1404"
 aliases:
 - "/news-project/-runtu-lite-1404.html"
 ---

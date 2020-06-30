@@ -2,7 +2,7 @@
 title: Тестовая сборка Runtu Gnome 12.04
 date: 2012-03-28 05:18:52.000000000 +00:00
 draft: false
-slug: new
+slug: gnome-fallback-1204-20120327
 aliases:
 - "/news-project/new.html"
 ---

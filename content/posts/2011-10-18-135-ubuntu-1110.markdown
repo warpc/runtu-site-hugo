@@ -2,7 +2,7 @@
 title: Тестовая сборка на базе Ubuntu 11.10
 date: 2011-10-18 17:47:01.000000000 +00:00
 draft: false
-slug: "-ubuntu-1110"
+slug: "ubuntu-1110"
 aliases:
 - "/news-project/-ubuntu-1110.html"
 ---

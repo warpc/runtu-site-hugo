@@ -2,7 +2,7 @@
 title: Стабильная сборка Runtu Gnome 12.04
 date: 2012-05-28 05:10:03.000000000 +00:00
 draft: false
-slug: "-runtu-gnome-1204"
+slug: "runtu-gnome-1204-201205"
 aliases:
 - "/news-project/-runtu-gnome-1204.html"
 ---
