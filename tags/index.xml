@@ -6,6 +6,8 @@
     <description>Recent content in Tags on Runtu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-Ru</language>
+    <managingEditor>org@runtu.org (Runtu Team)</managingEditor>
+    <webMaster>org@runtu.org (Runtu Team)</webMaster>
     
 	<atom:link href="https://warpc.github.io/runtu-site-hugo/tags/index.xml" rel="self" type="application/rss+xml" />
     
