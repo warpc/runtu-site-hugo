@@ -9,3 +9,12 @@
     --divider: #bdbdbd;
     --white: #fdfdfd;
 }
+
+.copy {
+    color: var(--white);
+    justify-content: space-around;
+}
+
+.footer__contact__item > span {
+	color: inherit;
+}

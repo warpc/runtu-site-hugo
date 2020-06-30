@@ -64,11 +64,13 @@
     </address>
 
     <div class="copy">
-        {{ if $.Site.Params.copy.copy }}
-        <p>{{ $.Site.Params.copy.copy }}</p>
-        {{ else }}
-        <p>© {{ now.Format "2006" }} - {{ $.Site.Title }}</p>
-        {{ end }}
+        <p><span><i class="far fa-copyright"></i></span>
+            {{ if $.Site.Params.copy.copy }}
+                {{ $.Site.Params.copy.copy }}
+            {{ else }}
+                {{ now.Format "2006" }} - {{ $.Site.Title }}
+            {{ end }}
+        </p>
     </div>
 
     {{ partial "scripts.html" . }}
