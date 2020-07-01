@@ -23,9 +23,8 @@ jobs:
       - name: Build
         run: hugo --minify --environment production
     
-      # Step 5 - Create name file
-      #- name: Create cname file
-      #  run: echo 'freshswift.net' > public/CNAME
+      - name: Create cname file
+        run: echo 'runtu.org' > public/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
