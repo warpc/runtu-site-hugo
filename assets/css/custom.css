@@ -18,3 +18,16 @@
 .footer__contact__item > span {
 	color: inherit;
 }
+
+tbody tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
+
+table {
+    width: 100%;
+    border-color: #ccc;
+}
+
+tr, td, th {
+    border: none;
+}
