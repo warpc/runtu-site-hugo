@@ -1,11 +1,12 @@
 ---
-title: "Скачать"
-description: ""
-menu: main
-weight: 30
+title: Скачать
+description: ''
+weight: "30"
+menu:
+  main:
+    weight: 30
+
 ---
-
-
 ## Runtu LITE 20.04 (рекомендуемый)
 Дата выхода: 7 июня 2020. Размер: 743 Мб. Архитектура: х64.
 
@@ -18,15 +19,15 @@ weight: 30
 
 > Данная версия поддерживает только x64 архитектуру.
 
-Последний актульный релиз для x32: [Runtu Lite 18.04 x32](http://forum.runtu.org/index.php/topic,7527.0.html).
+Последний актульный релиз для x32: [Runtu LITE 18.04 x32](http://forum.runtu.org/index.php/topic,7527.0.html).
 
 
 ## Runtu 18.04
 | Название версии        | Дата выхода           | Размер  | Загрузка|
 |:----------------------:|:---------------:| :------:| :-------:|
-| Runtu Lite 18.04.3 x64 | 13 декабря 2019 | 648 Мб | [Скачать](http://forum.runtu.org/index.php/topic,7940.0.html)
+| Runtu LITE 18.04.3 x64 | 13 декабря 2019 | 648 Мб | [Скачать](http://forum.runtu.org/index.php/topic,7940.0.html)
 | Runtu XFCE 18.04.3 x64 | 16 декабря 2019 | 829 Мб | [Скачать](http://forum.runtu.org/index.php/topic,7941.0.html)
-| Runtu Lite 18.04 x32   | 27 мая 2018     | 592 Мб | [Скачать](http://forum.runtu.org/index.php/topic,7527.0.html)
+| Runtu LITE 18.04 x32   | 27 мая 2018     | 592 Мб | [Скачать](http://forum.runtu.org/index.php/topic,7527.0.html)
 
 ## Релизы предыдущих версий Runtu
 Исторические релизы с описанием и ссылками для загрузки можно найти на [форуме проекта](http://forum.runtu.org/index.php/board,29.0.html).
