@@ -2,6 +2,8 @@
 title: Скачать
 description: ''
 weight: "30"
+aliases:
+- "/runtu/get-runtu.html"
 menu:
   main:
     weight: 30
