@@ -4,6 +4,7 @@ description: ''
 weight: "30"
 aliases:
 - "/runtu/get-runtu.html"
+- "/runtu/download.html"
 menu:
   main:
     weight: 30
