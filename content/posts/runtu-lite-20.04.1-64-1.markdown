@@ -37,8 +37,8 @@ HDD - 5Gb
 Логин:    runtu  
 Пароль:  пустой
 
-**Внесённые изменения:**  
-  
+**Внесённые изменения:**
+
 \- Применено ядро ветки **linux-oem-20.04** (текущая версия v5.6);  
 \- Пакетная база обновлена до версий 20.04.1 на 04.10.2020г;  
 \- Добавлена утилита **YAD** (вывод графических диалогов, программируемых пользователем);  
@@ -51,11 +51,15 @@ HDD - 5Gb
 
 ===========================
 
-[![](http://lostpic.net/images/2020/06/07/9f8dd15be617b9fd23060b2f96f13442.th.png)](http://lostpic.net/image/o6UL)       [![](http://lostpic.net/images/2020/06/07/afe76c6e057f42a45baee7abf4c375f7.th.png)](http://lostpic.net/image/o6UO)
+===========================
 
-[![](http://lostpic.net/images/2020/06/07/51742283c432e482bcc474cec41b0355.th.png)       ](http://lostpic.net/image/o6U2)[![](http://lostpic.net/images/2020/06/07/87a6881bcaa97dbf324770c25a58cda9.th.png)](http://lostpic.net/image/o6U4)
+===========================
 
-[![](http://lostpic.net/images/2020/06/07/6be7fb9a837136988247ffd42d4fe407.th.png)](http://lostpic.net/image/o6Us)       [![](http://lostpic.net/images/2020/06/07/2e09f91d33f09a0439696278f990fbe2.th.png)](http://lostpic.net/image/o6Ux)
+[![](https://forum.runtu.org/proxy.php?request=http%3A%2F%2Flostpic.net%2Fimages%2F2020%2F06%2F07%2F9f8dd15be617b9fd23060b2f96f13442.th.png&hash=836745fd301240072e25871a42bb53206f15ca50)](http://lostpic.net/image/o6UL)     [![](https://img11.lostpic.net/2020/10/05/ce4f15b64a604ea4aeb7e189ed616b5b.th.png)](http://lostpic.net/image/yeA8)
+
+[![](https://forum.runtu.org/proxy.php?request=http%3A%2F%2Flostpic.net%2Fimages%2F2020%2F06%2F07%2F51742283c432e482bcc474cec41b0355.th.png&hash=d0a2ddd5dca63c4dbe5e4fbc046c1cfb01e202a6)](http://lostpic.net/image/o6U2)     [![](https://img11.lostpic.net/2020/10/05/26c62f6f15e5a6a9dace1a54e79160e3.th.png)](http://lostpic.net/image/yeAj)
+
+[![](https://forum.runtu.org/proxy.php?request=http%3A%2F%2Flostpic.net%2Fimages%2F2020%2F06%2F07%2F6be7fb9a837136988247ffd42d4fe407.th.png&hash=c3982ed5a620a6745abcf3a9d932303c72605aec)](http://lostpic.net/image/o6Us)     [![](https://forum.runtu.org/proxy.php?request=http%3A%2F%2Flostpic.net%2Fimages%2F2020%2F06%2F07%2F2e09f91d33f09a0439696278f990fbe2.th.png&hash=95d1067acc2a75505dddd2ae37ac794ec5835ccb)](http://lostpic.net/image/o6Ux)
 
 ===========================
 
