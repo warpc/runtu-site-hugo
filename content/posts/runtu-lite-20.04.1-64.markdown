@@ -1,7 +1,6 @@
 +++
 aliases = ["/news-project/runtu-lite-2004-x64-news.html"]
 date = 2020-06-07T16:31:49Z
-draft = true
 slug = "runtu-lite-2004-x64-news"
 title = "Релиз дистрибутива Runtu LITE 20.04 х64"
 
