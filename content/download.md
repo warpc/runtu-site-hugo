@@ -10,13 +10,13 @@ menu:
     weight: 30
 
 ---
-## Runtu LITE 20.04 (рекомендуемый)
-Дата выхода: 7 июня 2020. Размер: 743 Мб. Архитектура: х64.
+## Runtu LITE 20.04.1 (рекомендуемый)
+Дата выхода: 4 октября 2020. Размер: 753 Мб. Архитектура: х64.
 
 Вы можете совершенно бесплатно скачать версии Runtu с ресурсов:
-1. [Зеркало на SourceForge](https://sourceforge.net/projects/runtu/files/runtu%2020.04/LITE/runtu-lite-20.04-amd64_202006.iso/download)
-2. [Зеркало на Яндекс (http)](https://mirror.yandex.ru/runtu/runtu%2020.04/LITE/runtu-lite-20.04-amd64_202006.iso)
-3. [Зеркало на Яндекс (ftp)](ftp://mirror.yandex.ru/runtu/runtu%2020.04/LITE/runtu-lite-20.04-amd64_202006.iso)
+1. [Зеркало на SourceForge](https://sourceforge.net/projects/runtu/files/runtu%2020.04/LITE/runtu-lite-20.04.1-amd64_202010.iso/download)
+2. [Зеркало на Яндекс (http)](https://mirror.yandex.ru/runtu/runtu%2020.04/LITE/runtu-lite-20.04.1-amd64_202010.iso)
+3. [Зеркало на Яндекс (ftp)](ftp://mirror.yandex.ru/runtu/runtu%2020.04/LITE/runtu-lite-20.04.1-amd64_202010.iso)
 
 Полный перечень доступных загрузок размещён на [странице релиза на форуме проекта](http://forum.runtu.org/index.php/topic,8099.0.html).
 
