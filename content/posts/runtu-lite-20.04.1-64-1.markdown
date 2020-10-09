@@ -79,4 +79,6 @@ HDD - 5Gb
 **md5:** a1d93a9101d30f4ebc730af434349f5f  
 **sha1:** 117204c3a0f60a59864e93e22d8795e2f41979ac
 
+**Обсуждение релиза на форуме:** [Тестирование Runtu LITE 20.04.1x64](https://forum.runtu.org/index.php/topic,8173.0.html)
+
 **Поддержать проект:** [ссылка на тему форума](http://forum.runtu.org/index.php/topic,188.0.html).
