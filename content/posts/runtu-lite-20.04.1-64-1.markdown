@@ -50,7 +50,7 @@ HDD - 5Gb
 
 ===========================
 
-[![](https://forum.runtu.org/proxy.php?request=http%3A%2F%2Flostpic.net%2Fimages%2F2020%2F06%2F07%2F9f8dd15be617b9fd23060b2f96f13442.th.png&hash=836745fd301240072e25871a42bb53206f15ca50)](http://lostpic.net/image/o6UL)    [![](https://img11.lostpic.net/2020/10/05/ce4f15b64a604ea4aeb7e189ed616b5b.th.png)](http://lostpic.net/image/yeA8)    
+[![](https://forum.runtu.org/proxy.php?request=http%3A%2F%2Flostpic.net%2Fimages%2F2020%2F06%2F07%2F9f8dd15be617b9fd23060b2f96f13442.th.png&hash=836745fd301240072e25871a42bb53206f15ca50)](http://lostpic.net/image/o6UL)    [![](https://img11.lostpic.net/2020/10/05/ce4f15b64a604ea4aeb7e189ed616b5b.th.png)](http://lostpic.net/image/yeA8)
 
 [![](https://forum.runtu.org/proxy.php?request=http%3A%2F%2Flostpic.net%2Fimages%2F2020%2F06%2F07%2F51742283c432e482bcc474cec41b0355.th.png&hash=d0a2ddd5dca63c4dbe5e4fbc046c1cfb01e202a6)](http://lostpic.net/image/o6U2)    [![](https://img11.lostpic.net/2020/10/05/26c62f6f15e5a6a9dace1a54e79160e3.th.png)](http://lostpic.net/image/yeAj)
 
@@ -59,6 +59,9 @@ HDD - 5Gb
 ===========================
 
 **Служебные комментарии:**
+
+  
+**NVidia** официально прекратила поддержку драйвера ветки __340.*__, который предназначался для семейства видеокарт **Tesla G8x, G9x, и GT2xx**. Установить эти драйверы можно только на систему с ядром до **Linux v5.4 и Xorg 1.20** включительно. На данную сборку с ядром **Linux 5.6** проприетарный драйвер **nvidia-340** не установится.
 
 Установку дистрибутива желательно проводить без доступа к Интернет, чтобы сократить время на загрузку списка пакетов в доступных репозиториях. Обновление производить после установки системы на жёсткий диск.
 
