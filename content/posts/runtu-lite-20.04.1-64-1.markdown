@@ -91,8 +91,8 @@ _Версия с ядром Linux 5.4_
   
 _Версия с ядром Linux 5.6_
 
-Загрузить с [Sourceforge.net](https://sourceforge.net/projects/runtu/files/runtu%2020.04/LITE/runtu-lite-20.04-amd64_202006.iso/download)  
-Загрузить с [зеркала Яндекс](https://mirror.yandex.ru/runtu/runtu%2020.04/LITE/runtu-lite-20.04-amd64_202006.iso)
+Загрузить с [Sourceforge.net](https://sourceforge.net/projects/runtu/files/runtu%2020.04/LITE/runtu-lite-20.04.1-amd64_202010.iso/download)  
+Загрузить с [зеркала Яндекс](https://mirror.yandex.ru/runtu/runtu%2020.04/LITE/runtu-lite-20.04.1-amd64_202010.iso)
 
 **Файл:** runtu-lite-20.04.1-amd64_202010.iso
 **Размер:** 753 Мб
