@@ -16,5 +16,3 @@ fields:
   config:
     required: false
   label: aliases
-pages:
-- content/posts/runtu-kde-22.04-x64-20220422.md
