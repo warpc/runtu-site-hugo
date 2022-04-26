@@ -1,7 +1,6 @@
 +++
 aliases = ["/news-project/runtu-kde-2204-x64-news.html"]
 date = 2022-04-22T16:31:49Z
-draft = true
 slug = ""
 title = "Релиз дистрибутива Runtu KDE 22.04 х64 - 20220422"
 
