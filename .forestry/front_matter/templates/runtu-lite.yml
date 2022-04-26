@@ -1,0 +1,16 @@
+---
+label: Runtu LITE
+hide_body: false
+fields:
+- type: list
+  name: aliases
+  label: aliases
+- type: datetime
+  name: date
+  label: date
+- type: datetime
+  name: slug
+  label: slug
+- type: text
+  name: title
+  label: title
