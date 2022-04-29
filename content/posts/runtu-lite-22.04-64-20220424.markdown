@@ -1,7 +1,6 @@
 +++
 aliases = ["/news-project/runtu-lite-2204x64"]
 date = 2022-04-24T16:31:49Z
-draft = true
 slug = ""
 title = "Релиз дистрибутива Runtu LITE 22.04 х64 - 20220424"
 
