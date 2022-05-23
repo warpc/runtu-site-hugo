@@ -17,7 +17,7 @@ aliases:
 2. [Зеркало на Яндекс (http)](https://mirror.yandex.ru/runtu/runtu%2020.04/LITE/runtu-lite-20.04.1-amd64_202010.iso)
 3. [Зеркало на Яндекс (ftp)](ftp://mirror.yandex.ru/runtu/runtu%2020.04/LITE/runtu-lite-20.04.1-amd64_202010.iso)
 
-Полный перечень доступных загрузок размещён на [странице релиза на форуме проекта](https://forum.runtu.org/index.php/topic,8173.0.html).
+Полный перечень доступных загрузок размещён на [на форуме проекта.]()
 
 > Данная версия поддерживает только x64 архитектуру.
 
