@@ -37,9 +37,9 @@ aliases:
 
 | Название версии | Дата выхода | Размер | Загрузка |
 | :---: | :---: | :---: | :---: |
-| Runtu LITE 18.04.3 x64 | 13 декабря 2019 | 648 Мб | Скачать |
-| Runtu XFCE 18.04.3 x64 | 16 декабря 2019 | 829 Мб | Скачать |
-| Runtu LITE 18.04 x32 | 27 мая 2018 | 592 Мб | Скачать |
+| Runtu LITE 18.04.3 x64 | 10 декабря 2019 | 648 Мб | [Скачать](https://sourceforge.net/projects/runtu/files/runtu%2018.04/LITE/runtu-lite-18.04.3-amd64_20191210.iso/download) |
+| Runtu XFCE 18.04.3 x64 | 19 августа 2019 | 829 Мб | [Скачать](https://sourceforge.net/projects/runtu/files/runtu%2018.04/XFCE/runtu-xfce-18.04.3-amd64_20190819.iso/download) |
+| Runtu LITE 18.04 x32 | 27 мая 2018 | 592 Мб | [Скачать](https://sourceforge.net/projects/runtu/files/runtu%2018.04/LITE/runtu-lite-18.04_201805.iso/download) |
 
 ## Релизы предыдущих версий Runtu
 
