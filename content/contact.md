@@ -4,7 +4,8 @@ description: ''
 weight: "40"
 menu:
   main:
-    weight: 40
+    name: Контакты
+    weight: 2
 
 ---
 ## Техническая поддержка

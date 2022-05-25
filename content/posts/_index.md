@@ -1,8 +1,10 @@
 ---
-title: "Новости"
-description: ""
+title: Новости
+description: ''
 images: []
-draft: false
-menu: main
-weight: 10
+weight: "10"
+menu:
+  main:
+    weight: 1
+
 ---
