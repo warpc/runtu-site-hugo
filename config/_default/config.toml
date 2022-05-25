@@ -77,4 +77,4 @@ googleAnalytics = 'UA-6171888-2'
     identifier = "forum"
     name = "Форум"
     url = "http://forum.runtu.org"
-    weight = 35
+    weight = 30

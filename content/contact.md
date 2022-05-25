@@ -5,7 +5,7 @@ weight: "30"
 menu:
   main:
     name: Контакты
-    weight: 3
+    weight: 50
 
 ---
 ## Техническая поддержка
