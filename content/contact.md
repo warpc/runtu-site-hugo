@@ -1,11 +1,11 @@
 ---
 Title: Контакты
 description: ''
-weight: "40"
+weight: "30"
 menu:
   main:
     name: Контакты
-    weight: 2
+    weight: 3
 
 ---
 ## Техническая поддержка

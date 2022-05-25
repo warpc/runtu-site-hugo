@@ -1,13 +1,13 @@
 ---
 title: Скачать
 description: ''
-weight: "30"
+weight: "20"
 aliases:
 - "/runtu/get-runtu.html"
 - "/runtu/download.html"
 menu:
   main:
-    weight: 3
+    weight: 2
 
 ---
 ## Runtu 22.04
