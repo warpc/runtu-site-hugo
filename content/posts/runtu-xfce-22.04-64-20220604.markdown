@@ -1,7 +1,6 @@
 +++
 aliases = ["/news-project/runtu-xfce-2204x64_20220604"]
 date = 2022-06-04T19:00:49Z
-draft = true
 slug = ""
 title = "Релиз дистрибутива Runtu XFCE 22.04 х64 - 20220604"
 
