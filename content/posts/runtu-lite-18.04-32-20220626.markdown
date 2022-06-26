@@ -50,9 +50,16 @@ HDD - 5Gb
 
 ===========================
 
-[![](https://i.ibb.co/T4twkZt/BIOS-BOOT.png)](https://ibb.co/T4twkZt)   [![](https://i.ibb.co/WkGm0vY/Splash.png)](https://ibb.co/WkGm0vY)   [![](https://i.ibb.co/k9jTq9B/Menu-System.png)](https://ibb.co/k9jTq9B)
+[![](https://i.ibb.co/T4twkZt/BIOS-BOOT.png)](https://ibb.co/T4twkZt)  
+[![](https://i.ibb.co/WkGm0vY/Splash.png)](https://ibb.co/WkGm0vY)
 
-[![](https://i.ibb.co/RyNhwrn/Minwaita-Desktop1.png)](https://ibb.co/RyNhwrn)   [![](https://i.ibb.co/686sTSC/Black-Desktop.png)](https://ibb.co/686sTSC)   [![](https://i.ibb.co/9w2DZ0B/Graybird-Desktop.png)](https://ibb.co/9w2DZ0B)
+[![](https://i.ibb.co/k9jTq9B/Menu-System.png)](https://ibb.co/k9jTq9B)
+
+[![](https://i.ibb.co/RyNhwrn/Minwaita-Desktop1.png)](https://ibb.co/RyNhwrn)
+
+[![](https://i.ibb.co/686sTSC/Black-Desktop.png)](https://ibb.co/686sTSC)
+
+[![](https://i.ibb.co/9w2DZ0B/Graybird-Desktop.png)](https://ibb.co/9w2DZ0B)
 
 ===========================
 
