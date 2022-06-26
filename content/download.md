@@ -40,7 +40,7 @@ menu:
 | :---: | :---: | :---: | :---: |
 | Runtu LITE 18.04.3 x64 | 10 декабря 2019 | 648 Мб | [Скачать](https://sourceforge.net/projects/runtu/files/runtu%2018.04/LITE/runtu-lite-18.04.3-amd64_20191210.iso/download) |
 | Runtu XFCE 18.04.3 x64 | 19 августа 2019 | 829 Мб | [Скачать](https://sourceforge.net/projects/runtu/files/runtu%2018.04/XFCE/runtu-xfce-18.04.3-amd64_20190819.iso/download) |
-| Runtu LITE 18.04 x32 | 26 июня 2022 | 675 Мб | [Скачать](https://forum.runtu.org/index.php/topic,8491.0.html) |
+| Runtu LITE 18.04 x32 | 26 июня 2022 | 675 Мб | [Скачать](https://sourceforge.net/projects/runtu/files/runtu%2018.04/LITE/runtu-lite-18.04-i386_20220626.iso/download) |
 
 ## Релизы предыдущих версий Runtu
 
