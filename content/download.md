@@ -15,7 +15,7 @@ menu:
 | Название версии | Дата выхода | Размер | Загрузка |
 | :---: | :---: | :---: | :---: |
 | Runtu LITE 22.04 x64 | 22 мая 2022 | 1247 Мб | [Скачать](https://sourceforge.net/projects/runtu/files/runtu%2022.04/LITE/runtu-lite-22.04-amd64_20220522.iso/download) |
-| Runtu KDE 22.04 x64 | 22 апреля 2022 | 1292 Мб | [Скачать](https://sourceforge.net/projects/runtu/files/runtu%2022.04/KDE/runtu-kde-22.04-amd64_20220422.iso/download) |
+| Runtu KDE 22.04 x64 | 02 июля 2022 | 1352 Мб | [Скачать](https://sourceforge.net/projects/runtu/files/runtu%2022.04/KDE/runtu-kde-22.04-amd64_20220702.iso/download) |
 | Runtu XFCE 22.04 x64 | 04 июня 2022 | 1381 Мб | [Скачать](https://sourceforge.net/projects/runtu/files/runtu%2022.04/XFCE/runtu-xfce-22.04-amd64_20220604.iso/download) |
 
 ## Runtu LITE 20.04.1
