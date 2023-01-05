@@ -1,96 +1,89 @@
 +++
-aliases = ["/news-project/runtu-kde-2204x64_20220702"]
+aliases = ["/news-project/runtu-lite-2204x64_20230106"]
 date = 2022-07-02T15:00:49Z
 draft = true
 slug = ""
 title = "Релиз дистрибутива Runtu LITE 22.04.1 х64 - 20230106"
 
 +++
-Представлена версия 64-разрядного дистрибутива **Runtu KDE 22.04 х64**, собранная на пакетной базе релиза **Jammy Jellyfish 22.04 LTS** с окружением рабочего стола **KDE Plasma 5.24**. Сборка имеет базовый набор пользовательского ПО с возможностью установки на жёсткий диск. В поставку добавлен офисный пакет **Libreoffice 7.3.4** в составе: **Writer**, **Calc**, **Impress**, **Math** и **Draw**, утилита подготовки USB-носителя для запуска ISO-образов **Ventoy 1.0.78**, инструмент для настройки и и восстановления загрузчика **GRUB Customizer 5.2.1**. Пакетная база актуализирована на дату **02.07.2022**г.
+Представлено обновление версии 64-разрядного дистрибутива **Runtu LITE 22.04 х64** на пакетной базе релиза **Jammy Jellyfish 22.04.1 LTS**. Сборка имеет базовый набор пользовательского ПО с возможностью установки на жёсткий диск. Пакетная база актуализирована на дату **06.01.2023**г.
 
 <!--more-->
 
- **Основные элементы системы:**  
+**Основные элементы системы:**  
   
-Менеджер дисплея SDDM 0.19  
-Оконный менеджер KWin-X11 5.24.4  
-Файловый менеджер Dolphin 21.12.3  
-Панель рабочего стола Plasma Panel 5.24.4  
-Менеджер сети NetworkManager 1.36.6 (pptp, l2tp, openvpn, ssh, sstp, vpnc)  
-Текстовый редактор KWrite 21.12.3  
-Офисный пакет Libreoffice 7.3.4  
-Просмотр изображений Nomacs 3.12  
-Браузер Firefox 102.0.2  
-Торрент-клиент KTorrent 21.12.3  
+Менеджер дисплея LightDM 1.30  
+Оконный менеджер Openbox 3.6.1  
+Файловый менеджер PCManFM 1.3.2  
+Панель рабочего стола LXPanel 0.10.1  
+Менеджер сети NetworkManager 1.36.6 (dsl/pppoe, pptp, l2tp, sstp, ssh, openvpn и vpnc)  
+Текстовый редактор Geany 1.38  
+Офисный пакет Libreoffice 7.4.3  
+Браузер Firefox 108.0.2 (+uBlock Origin)  
 Видеоплеер VLC 3.0.16  
-Аудиоплеер Audacious 4.1  
+Аудиоплеер DeaDBeeF 1.8.8  
   
+Менеджер питания xfce4-power-manager  
+Менеджер Bluetooth Blueman  
+Звуковой сервер PulseAudio  
   
-Менеджер питания Powerdevil 5.24.4  
-Менеджер Bluetooth Bluedevil 5.24.4  
-Звуковой сервер PulseAudio 15.99.1  
-  
-Версия ядра: 5.15.0-40-generic  
+Версия ядра: 5.15.0-56-generic  
 Версия Xorg: 2:21.1.3  
    
   
- **Системные требования:**  
+ **Минимальные системные требования:**  
   
-RAM - 2048Mb  
+RAM - 1024Mb  
 CPU - x64  
-HDD - 6Gb  
+HDD - 8Gb  
   
 Логин: runtu  
 Пароль: пустой  
   
+  
  **Скриншоты рабочего окружения:**  
   
 ===========================  
-[![](https://i.ibb.co/1bRdrzq/Screen-0.png)](https://ibb.co/1bRdrzq)
-
-[![](https://i.ibb.co/MP4dysm/MENU-UEFI.png)](https://ibb.co/MP4dysm)
-
-[![](https://i.ibb.co/WkGm0vY/Splash.png)](https://ibb.co/WkGm0vY)  
-[![](https://i.ibb.co/4fqTk1k/Screen-1.png)](https://ibb.co/4fqTk1k)
-
-[![](https://i.ibb.co/F3V2sCx/MENU-OFFICE.png)](https://ibb.co/F3V2sCx)
-
-[![](https://i.ibb.co/99hGmSS/MENU-VLC.png)](https://ibb.co/99hGmSS)  
+  
+[![](https://i.ibb.co/Lz44RS4/BIOS-Syslinux-1.png)](https://ibb.co/Lz44RS4) [![](https://i.ibb.co/pWzWhj0/EFI-GRUB-1.png)](https://ibb.co/pWzWhj0) [![](https://i.ibb.co/BL4KPq6/Screen-FM.png)](https://ibb.co/BL4KPq6) [![](https://i.ibb.co/2SjBt4h/Menu-Office.png)](https://ibb.co/2SjBt4h) [![](https://i.ibb.co/Jtxw2LG/Menu-System-about.png)](https://ibb.co/Jtxw2LG)  
+  
+  
+[![](https://i.ibb.co/Rc3Y66f/Menu-Generic-gdmap.png)](https://ibb.co/Rc3Y66f) [![](https://i.ibb.co/qRpxwZt/Menu-Gfaph-whdd.png)](https://ibb.co/qRpxwZt) [![](https://i.ibb.co/v1q2Twz/Menu-Internet-gdu.png)](https://ibb.co/v1q2Twz) [![](https://i.ibb.co/HhBnZ9D/Menu-Params.png)](https://ibb.co/HhBnZ9D) [![](https://i.ibb.co/fxHgsGb/Menu-AV-vino.png)](https://ibb.co/fxHgsGb)  
   
 ===========================  
   
  **Служебные комментарии:**  
   
-Дистрибутив с окружением **KDE Plasma Desktop** на базе репозиториев **Ubuntu 22.04** - вариант cборок для пользователей, предпочитающих рабочий стол **KDE**.   
+\- заблокирована возможность установки snap-приложений на уровне приоритетов APT. При необходимости поддержки данного типа пакетов нужно удалить конфиг /etc/apt/preferences.d/nosnap.pref и обновить индекс пакетной базы;  
   
-Разработка проводилась в рамках основной концепции **Runtu** - окружение с базовым набором ПО и оптимизацией потребляемых ресурсов. Приложены усилия для соблюдения максимальной совместимости с родительским дистрибутивом, имеющиеся отличия:  
+\- браузер **Firefox** установлен в виде deb-пакета из подключенного [PPA-репозитория Mozillateam](https://launchpad.net/\~mozillateam/+archive/ubuntu/ppa), т.к. штатно в релизе 22.04 **Firefox** поставляется в виде **snap**. Предустановлено расширение **uBlock Origin**.  
   
-\- заблокирована возможность установки **snap**-приложений на уровне приоритетов **APT**. При необходимости поддержки данного типа пакетов нужно удалить конфиг /etc/apt/preferences.d/nosnap.pref и обновить индекс пакетной базы;  
+Предустановлен офисный пакет **Libreoffice 7.4.3\~rc2** в составе: **Writer**, **Calc**, **Impress**, **Math** и **Draw**. В меню "Офис" добавлены ярлыки для установки подсистем печати и сканирования. Если установка данного ПО не планируется (ярлыки в меню не нужны), следует удалить файлы _printinstall_ и _scaninstall_ в каталоге /var/lib/misc/.  
   
-\- браузер **Firefox** установлен в виде deb-пакета из подключенного [PPA-репозитория Mozillateam](https://launchpad.net/\~mozillateam/+archive/ubuntu/ppa), т.к. штатно в релизе 22.04 **Firefox** поставляется в виде **snap**. Предустановлено расширение uBlock Origin.  
+Добавлены утилиты для настройки рабочего окружения:   
+**Obconf** (настройка параметров Openbox);  
+**LXInput** (настройка параметров клавиатуры и мыши);  
+**LXHotkey** (настройка клавиатурных сочетаний).  
   
-\- используется оконный менеджер **kwin-x11**, сеанса на базе **Wayland** нет;  
+Версия утилиты **Memtest86+** для тестирования ОЗУ в режиме BIOS/Legacy из меню LiveCD обновлена до v6.01;  
+Версия утилиты **Memtest86** для тестирования ОЗУ в режиме UEFI из меню LiveCD обновлена до v10.2.  
   
-\- в качестве пакетного менеджера используется **Synaptic**.  
-  
-В меню "Офис" добавлен ярлык для установки подсистемы печати. Если установка данного ПО не планируется и ярлык в меню не нужен, следует удалить файл **printinstall** в каталоге /var/lib/misc/.  
-  
+Пожелания, предложения по составу и функционалу дистрибутива приветствуются.  
   
 ===========================  
   
  **Ссылки на загрузку:**  
   
-Загрузить с [Sourceforge.net](https://sourceforge.net/projects/runtu/files/runtu%2022.04/KDE/runtu-kde-22.04-amd64_20220702.iso/download)  
+Загрузить с [Sourceforge.net](https://sourceforge.net/projects/runtu/files/runtu%2022.04/LITE/runtu-lite-22.04.1-amd64_20230106.iso/download)  
+  
+**Файл:** runtu-lite-22.04.1-amd64_20230106.iso  
+  
+**Размер:** 1431 Мб  
   
   
-**Файл:** runtu-kde-22.04-amd64_20220702.iso  
-**Размер:** 1352 Мб  
-  
-  
-**md5:** f8a967659ce47199399007c42ac49d10  
-**sha1:** d7f315511fb5cbd1a8c95a25d7bce918ce0c2378  
-  
-  
-Обсуждение дистрибутива [в теме тестирования Runtu KDE 22.04 x64 - 20220702](https://forum.runtu.org/index.php/topic,8529.0.html).  
-  
-**Поддержать проект:** [ссылка на тему форума](http://forum.runtu.org/index.php/topic,188.0.html) 
+**md5:** df8ed99814eecd50494e832d94148e3c  
+**sha1:** 598880c53f4019d74ed7117d960eb4e48dc53a5d
+
+Обсуждение дистрибутива в теме тестирования [Runtu LITE 22.04.1 x64 - 20230106](https://forum.runtu.org/index.php/topic,8622.0.html).
+
+**Поддержать проект:** [ссылка на тему форума](http://forum.runtu.org/index.php/topic,188.0.html)
