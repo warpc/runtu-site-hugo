@@ -1,6 +1,6 @@
 +++
-aliases = ["/news-project/runtu-lite-2204x64_20230106"]
-date = 2022-07-02T15:00:49Z
+aliases = ["/news-project/runtu-lite-2204.1x64_20230106"]
+date = 2023-01-05T23:00:00Z
 draft = true
 slug = ""
 title = "Релиз дистрибутива Runtu LITE 22.04.1 х64 - 20230106"
