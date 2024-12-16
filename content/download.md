@@ -30,9 +30,8 @@ menu:
 
 Вы можете совершенно бесплатно скачать версии Runtu с ресурсов:
 
-1. [Зеркало на SourceForge](https://sourceforge.net/projects/runtu/files/runtu%2020.04/LITE/runtu-lite-20.04.1-amd64_202010.iso/download)
-2. [Зеркало на Яндекс (http)](https://mirror.yandex.ru/runtu/runtu%2020.04/LITE/runtu-lite-20.04.1-amd64_202010.iso)
-3. [Зеркало на Яндекс (ftp)](ftp://mirror.yandex.ru/runtu/runtu%2020.04/LITE/runtu-lite-20.04.1-amd64_202010.iso)
+[Зеркало на SourceForge](https://sourceforge.net/projects/runtu/files/runtu%2020.04/LITE/runtu-lite-20.04.1-amd64_202010.iso/download)
+
 
 Полный перечень доступных загрузок размещён на [на странице проекта Sourceforge.](https://sourceforge.net/projects/runtu/files/)
 
