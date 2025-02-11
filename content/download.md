@@ -14,6 +14,7 @@ menu:
 
 | Название версии | Дата выхода | Размер | Загрузка |
 | :---: | :---: | :---: | :---: |
+| Runtu XFCE 24.04 x64 | 20 декабря 2024 | 1639 Мб | [Скачать](https://sourceforge.net/projects/runtu/files/runtu%2024.04/XFCE/runtu-xfce-24.04-amd64_20241220.iso/download) |
 | Runtu LITE 24.04 x64 | 20 мая 2024 | 1164 Мб | [Скачать](https://sourceforge.net/projects/runtu/files/runtu%2024.04/LITE/runtu-lite-24.04-amd64_20240520.iso/download) |
 
 ## Runtu 22.04
