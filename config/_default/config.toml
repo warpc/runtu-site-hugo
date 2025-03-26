@@ -20,7 +20,7 @@ googleAnalytics = 'UA-6171888-2'
   logo = 'images/logo.png'
 
 [params.copy]
-    copy = "2007-2024 Runtu"
+    copy = "2007-2025 Runtu"
 
 [params.hero]
     textColor = "" # Empty for default color
