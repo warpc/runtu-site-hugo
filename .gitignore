@@ -3,3 +3,7 @@ resources/_gen/
 .hugo_build.lock
 node_modules
 .env
+
+# TinaCMS
+tina/__generated__/
+static/admin/

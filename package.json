@@ -1,0 +1,31 @@
+{
+  "name": "runtu-site-hugo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tinacms dev -c \"hugo server\"",
+    "build": "tinacms build && hugo --minify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warpc/runtu-site-hugo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/warpc/runtu-site-hugo/issues"
+  },
+  "homepage": "https://github.com/warpc/runtu-site-hugo#readme",
+  "dependencies": {
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
+    "tinacms": "^3.6.1"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^2.1.9",
+    "@types/node": "^25.5.0"
+  }
+}
