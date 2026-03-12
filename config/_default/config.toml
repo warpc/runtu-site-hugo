@@ -1,7 +1,6 @@
 baseURL = ""
 languageCode = "ru-RU"
 title = "Runtu"
-theme = 'terrassa'
 enableRobotsTXT = true
 
 [pagination]
@@ -63,9 +62,6 @@ enableRobotsTXT = true
     [privacy.youtube]
         disable = false
         privacyEnhanced = true
-
-[params.languageSwitcher]
-    show = false
 
 [menu]
   [[menu.main]]

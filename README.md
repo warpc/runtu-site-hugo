@@ -61,8 +61,8 @@ npm install -g yarn
 ## Клонирование и запуск
 
 ```bash
-# Клонировать с подмодулями (тема Terrassa)
-git clone --recurse-submodules https://github.com/warpc/runtu-site-hugo.git
+# Клонировать репозиторий
+git clone https://github.com/warpc/runtu-site-hugo.git
 cd runtu-site-hugo
 
 # Установить зависимости TinaCMS
