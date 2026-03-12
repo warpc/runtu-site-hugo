@@ -3,9 +3,15 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta name="robots" content="index, follow" />
 	<meta name="googlebot" content="index, follow, noarchive" />
+	<meta name="theme-color" content="#f8f9fc" />
 	<title>{{ $.Site.Title }} - {{ .Title }}</title>
 	<link rel="icon" href="{{ $.Site.BaseURL }}{{ $.Site.Params.favicon }}" />
 	<meta name="description" content="{{ $.Site.Params.description }}" />
+
+	<!-- Google Fonts: JetBrains Mono -->
+	<link rel="preconnect" href="https://fonts.googleapis.com" />
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+	<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;700&display=swap" rel="stylesheet" />
 
 	{{ if .IsTranslated }}
 	{{ range .AllTranslations }}
@@ -18,7 +24,6 @@
 	{{ end -}}
 
 	{{ hugo.Generator }}
-
 
 	<meta property="og:locale" content="{{ .Site.Language.LanguageCode }}" />
 	{{ if .IsTranslated }}

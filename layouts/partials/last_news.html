@@ -1,14 +1,26 @@
 {{ $related := (where $.Site.RegularPages "Type" "posts") | first 1 }}
 {{ with $related }}
     {{ range . }}
-    <section class="section">
-        <h3>Последние новости:</h3>
+    <section class="section--alt">
+    <div class="section">
+        <h3>~ Последние новости</h3>
         <article class="card">
+            <header class="card__header">
+                <h2 class="card__header__title">
+                    <a href="{{ .RelPermalink }}" class="card__header__link">{{ .Title }}</a>
+                </h2>
+                {{ if $.Site.Params.posts.showDate }}
+                <p class="card__header__date date">{{ dateFormat $.Site.Params.posts.dateFormat .Date }}</p>
+                {{ end }}
+            </header>
             <div class="card__body">
-            {{.Summary}}
+                {{ .Summary }}
             </div>
-            <a href="{{ .RelPermalink }}">Подробнее</a>
+            <footer class="card__footer">
+                <a href="{{ .RelPermalink }}" class="btn btn--sm">Подробнее →</a>
+            </footer>
         </article>
+    </div>
     </section>
     {{ end }}
 {{ end }}

@@ -1,0 +1,188 @@
+/* Base — shadows theme base.css */
+
+:root {
+    /* Light palette with Runtu blue */
+    --bg-primary: #f8f9fc;
+    --bg-card: #ebeef5;
+    --bg-hover: #e0e4ee;
+
+    --brand-blue: #0055CC;
+    --brand-blue-light: #a0c4e8;
+    --brand-blue-dark: #003d99;
+    --text-blue: #0055CC;
+    --link-blue: rgb(16, 115, 185);
+    --link-hover: rgb(12, 85, 150);
+    --accent-green: rgb(45, 125, 45);
+
+    --text-primary: rgb(36, 40, 59);
+    --text-muted: rgb(86, 95, 137);
+    --text-dim: rgb(110, 118, 150);
+
+    --border-color: rgb(210, 215, 228);
+
+    /* Spacing */
+    --space-xs: 0.25rem;
+    --space-sm: 0.5rem;
+    --space-md: 1rem;
+    --space-lg: 2rem;
+    --space-xl: 3rem;
+    --space-2xl: 5rem;
+
+    /* Container */
+    --container-width: 900px;
+
+    /* Typography */
+    --font-mono: 'JetBrains Mono', monospace;
+    --fs-sm: clamp(0.75rem, 1.5vw, 0.85rem);
+    --fs-base: clamp(0.85rem, 1.8vw, 0.95rem);
+    --fs-lg: clamp(1.1rem, 2.2vw, 1.3rem);
+    --fs-xl: clamp(1.4rem, 3vw, 1.8rem);
+    --fs-2xl: clamp(1.8rem, 4vw, 2.5rem);
+
+    /* Shadows */
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.06);
+    --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.1);
+    --shadow-blue: 0 4px 16px rgba(0, 85, 204, 0.25);
+
+    /* Border radius */
+    --radius-sm: 4px;
+    --radius-md: 8px;
+
+    /* Transitions */
+    --transition: 0.15s ease;
+    --transition-slow: 0.25s ease;
+}
+
+/* Base element styles */
+body {
+    font-size: var(--fs-base);
+}
+
+a {
+    color: var(--link-blue);
+    transition: color var(--transition);
+}
+
+a:hover {
+    color: var(--link-hover);
+}
+
+h1 { font-size: var(--fs-2xl); color: var(--text-blue); }
+h2 { font-size: var(--fs-xl); color: var(--text-blue); }
+h3 { font-size: var(--fs-lg); color: var(--text-blue); }
+h4, h5, h6 { font-size: var(--fs-base); color: var(--text-blue); }
+
+p {
+    margin-bottom: var(--space-md);
+}
+
+pre {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    padding: var(--space-md);
+    overflow-x: auto;
+    margin-bottom: var(--space-md);
+    font-size: var(--fs-sm);
+}
+
+code {
+    font-family: var(--font-mono);
+    background: var(--bg-card);
+    padding: 0.15em 0.4em;
+    border-radius: 3px;
+    font-size: 0.9em;
+}
+
+pre code {
+    background: none;
+    padding: 0;
+}
+
+blockquote {
+    border-left: 3px solid var(--brand-blue);
+    padding-left: var(--space-md);
+    color: var(--text-muted);
+    margin-bottom: var(--space-md);
+}
+
+hr {
+    border: none;
+    border-top: 1px solid var(--border-color);
+    margin: var(--space-lg) 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: var(--space-lg);
+    font-size: var(--fs-sm);
+}
+
+th {
+    background: var(--bg-hover);
+    color: var(--text-blue);
+    font-weight: 700;
+    text-align: left;
+    padding: var(--space-sm) var(--space-md);
+    border-bottom: 2px solid var(--brand-blue);
+}
+
+td {
+    padding: var(--space-sm) var(--space-md);
+    border-bottom: 1px solid var(--border-color);
+}
+
+tbody tr:nth-child(odd) {
+    background: var(--bg-card);
+}
+
+tbody tr:hover {
+    background: var(--bg-hover);
+}
+
+ul, ol {
+    margin-bottom: var(--space-md);
+    padding-left: var(--space-lg);
+}
+
+ul {
+    list-style: disc;
+}
+
+ul li::marker {
+    color: var(--accent-green);
+}
+
+ol {
+    list-style: decimal;
+}
+
+ol li::marker {
+    color: var(--text-blue);
+}
+
+li {
+    margin-bottom: var(--space-xs);
+}
+
+img {
+    border-radius: 4px;
+}
+
+::selection {
+    background: rgba(30, 144, 255, 0.2);
+    color: var(--text-primary);
+}
+
+.post__body a,
+.card__body a {
+    text-decoration: underline;
+    text-decoration-color: rgba(16, 115, 185, 0.4);
+    text-underline-offset: 2px;
+}
+
+.post__body a:hover,
+.card__body a:hover {
+    text-decoration-color: rgba(16, 115, 185, 0.8);
+}

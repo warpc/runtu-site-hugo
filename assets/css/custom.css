@@ -1,33 +1,27 @@
-:root {
-    /* Colors */
-    --primary: #1E90FF;
-    --primary-dark:#1E90FF;
-    --primary-light: #1E90FF;
-    --primary-text: #212121;
-    --secondary-text: #333333;
-    --accent: #536dfe;
-    --divider: #bdbdbd;
-    --white: #fdfdfd;
+/* Custom — Runtu-specific overrides */
+/* This file is loaded last in the CSS bundle */
+
+/* ========== Skip Link ========== */
+.skip-link {
+    position: absolute;
+    top: -100%;
+    left: var(--space-md);
+    background: var(--brand-blue);
+    color: #fff;
+    padding: var(--space-sm) var(--space-md);
+    border-radius: 0 0 4px 4px;
+    font-size: var(--fs-sm);
+    z-index: 1000;
+    text-decoration: none;
 }
 
-.copy {
-    color: var(--white);
-    justify-content: space-around;
+.skip-link:focus {
+    top: 0;
+    color: #fff;
 }
 
-.footer__contact__item > span {
-	color: inherit;
-}
-
-tbody tr:nth-child(odd) {
-    background-color: #f2f2f2;
-}
-
-table {
-    width: 100%;
-    border-color: #ccc;
-}
-
-tr, td, th {
-    border: none;
+/* ========== Responsive Tables ========== */
+.post__body table {
+    display: block;
+    overflow-x: auto;
 }

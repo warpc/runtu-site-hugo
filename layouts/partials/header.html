@@ -1,0 +1,13 @@
+<header class="header {{ if $.Site.Params.languageSwitcher.show }} has-LangNav{{ end }}">
+    <div class="header__title">
+        <a href="{{ "/" | relLangURL }}" class="header__title__link" alt="Home">
+            {{ $.Site.Title }}
+        </a>
+    </div>
+
+    {{ partial "menu.html" . }}
+    {{ partial "hamburger-menu.html" . }}
+    {{ if $.Site.Params.languageSwitcher.show }}
+    {{ partial "language-switcher.html" . }}
+    {{ end }}
+</header>

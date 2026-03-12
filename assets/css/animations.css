@@ -1,0 +1,76 @@
+/* Animations — shadows theme animations.css */
+
+a,
+.card,
+.btn,
+.menu__items__item__link,
+.hamburger__items__item__link,
+.footer__social__link,
+.footer__contact__link,
+.tags a,
+.page-item .page-link {
+    transition: all 0.25s ease;
+}
+
+/* Hero logo fade-in */
+@keyframes heroFadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(12px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Animated underline on card title links */
+.card__header__link {
+    position: relative;
+    text-decoration: none;
+}
+
+.card__header__link::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    width: 0;
+    height: 2px;
+    background: var(--brand-blue);
+    transition: width 0.25s ease;
+}
+
+.card__header__link:hover::after {
+    width: 100%;
+}
+
+/* Focus-visible styles for keyboard navigation */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+.btn:focus-visible,
+.hero__btn:focus-visible,
+.menu__items__item__link:focus-visible,
+.hamburger__items__item__link:focus-visible,
+.tags a:focus-visible,
+.page-item .page-link:focus-visible {
+    outline: 2px solid var(--brand-blue);
+    outline-offset: 2px;
+}
+
+:focus:not(:focus-visible) {
+    outline: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+}
