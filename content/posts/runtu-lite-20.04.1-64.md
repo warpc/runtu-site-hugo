@@ -1,10 +1,10 @@
-+++
-aliases = ["/news-project/runtu-lite-2004-x64-news.html"]
-date = 2020-06-07T16:31:49Z
-slug = "runtu-lite-2004-x64-news"
-title = "Релиз дистрибутива Runtu LITE 20.04 х64"
-
-+++
+---
+aliases:
+- "/news-project/runtu-lite-2004-x64-news.html"
+date: 2020-06-07T16:31:49Z
+slug: "runtu-lite-2004-x64-news"
+title: "Релиз дистрибутива Runtu LITE 20.04 х64"
+---
 Представлен релиз 64-разрядного дистрибутива **Runtu LITE 20.04 х64**, основой которого является пакетная база релиза **Focal Fossa 20.04 LTS**. Сборка имеет базовый набор пользовательского ПО с возможностью установки на жёсткий диск.  
 <!--more-->
 
