@@ -18,15 +18,9 @@
         {{ end }}
     </header>
 
-    {{ if ne .Type "page" }}
     <main class="post__body">
         {{ .Content }}
     </main>
-    {{ else }}
-    <main class="post__body">
-        {{ .Content }}
-    </main>
-    {{ end }}
 
     {{ if ne .Type "page" }}
     <footer class="post__footer">

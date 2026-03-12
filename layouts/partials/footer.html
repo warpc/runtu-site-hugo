@@ -8,9 +8,7 @@
         {{ range $k, $v := $items }}
         {{ if $v}}
         <a href="{{ $v }}" class="footer__social__link" title="{{ $k }}" target="_blank" aria-label="{{ $v }}" rel="noopener">
-            <span>
-                <i class="fab fa-{{ $k }}"></i>
-            </span>
+            <span>{{ $k }}</span>
         </a>
         {{ end }}
         {{ end }}
@@ -21,7 +19,7 @@
     <address class="footer__contact">
         {{ if $.Site.Params.contact.email }}
         <p class="footer__contact__item">
-            <span><i class="fas fa-envelope"></i></span>
+            <span>{{ partial "icon.html" "envelope" }}</span>
             <a href="mailto:{{ $.Site.Params.contact.email}}" class="footer__contact__link" title="Email">
                 {{ $.Site.Params.contact.email }}
             </a>
@@ -30,7 +28,7 @@
 
         {{ if $.Site.Params.contact.xmpp }}
         <p class="footer__contact__item">
-            <span><i class="fas fa-comments"></i></span>
+            <span>{{ partial "icon.html" "comments" }}</span>
             <a href="xmpp:{{ $.Site.Params.contact.xmpp }}" class="footer__contact__link" title="XMPP">
                 {{ $.Site.Params.contact.xmpp }}
             </a>
@@ -48,5 +46,5 @@
         </p>
     </div>
 
-    {{ partial "scripts.html" . }}
+    {{/* JS removed — site works without JavaScript */}}
 </footer>

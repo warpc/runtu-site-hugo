@@ -9,10 +9,10 @@
         <span class="hero__edition">LITE · 24.04 LTS · x86_64</span>
     </div>
     <nav class="hero__nav">
-        <a href="{{ "download" | relURL }}" class="hero__btn hero__btn--primary"><i class="fas fa-download"></i> Скачать</a>
-        <a href="{{ "posts" | relURL }}" class="hero__btn hero__btn--outline"><i class="far fa-newspaper"></i> Новости</a>
-        <a href="{{ "contact" | relURL }}" class="hero__btn hero__btn--outline"><i class="far fa-envelope"></i> Контакты</a>
-        <a href="https://forum.runtu.org" class="hero__btn hero__btn--outline"><i class="fas fa-comments"></i> Форум</a>
+        <a href="{{ "download" | relURL }}" class="hero__btn hero__btn--primary">{{ partial "icon.html" "download" }} Скачать</a>
+        <a href="{{ "posts" | relURL }}" class="hero__btn hero__btn--outline">{{ partial "icon.html" "newspaper" }} Новости</a>
+        <a href="{{ "contact" | relURL }}" class="hero__btn hero__btn--outline">{{ partial "icon.html" "envelope-o" }} Контакты</a>
+        <a href="https://forum.runtu.org" class="hero__btn hero__btn--outline">{{ partial "icon.html" "comments" }} Форум</a>
     </nav>
 </div>
 </section>
@@ -20,22 +20,22 @@
 <section class="features">
     <div class="features__grid">
         <div class="features__item">
-            <i class="fas fa-language features__icon"></i>
+            {{ partial "icon.html" (dict "name" "language" "class" "features__icon") }}
             <h3 class="features__title">На русском</h3>
             <p class="features__text">Полная русификация системы из коробки — интерфейс, шрифты, раскладки</p>
         </div>
         <div class="features__item">
-            <i class="fas fa-feather-alt features__icon"></i>
+            {{ partial "icon.html" (dict "name" "feather-alt" "class" "features__icon") }}
             <h3 class="features__title">Быстрый и лёгкий</h3>
             <p class="features__text">XFCE или минималистичный LITE — выбирайте под свои задачи и железо</p>
         </div>
         <div class="features__item">
-            <i class="fas fa-shield-alt features__icon"></i>
+            {{ partial "icon.html" (dict "name" "shield-alt" "class" "features__icon") }}
             <h3 class="features__title">Надёжный</h3>
             <p class="features__text">На базе Ubuntu LTS — долгосрочная поддержка и обновления безопасности</p>
         </div>
         <div class="features__item">
-            <i class="fas fa-unlock features__icon"></i>
+            {{ partial "icon.html" (dict "name" "unlock" "class" "features__icon") }}
             <h3 class="features__title">Свободный</h3>
             <p class="features__text">Только свободное программное обеспечение, бесплатно и навсегда</p>
         </div>

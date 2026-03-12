@@ -1,0 +1,18 @@
+<nav class="hamburger-menu" aria-label="mobile-menu">
+    <div class="toggle">
+        <input type="checkbox" class="hamburger__toggle" id="hamburgerToggle" name="hamburger toggle" aria-label="Меню">
+        <label class="hamburger__toggle__icon" for="hamburgerToggle">
+            {{ partial "icon.html" "bars" }}
+        </label>
+
+        <ul class="hamburger__items" aria-label="mobile-menu">
+            {{ range .Site.Menus.main }}
+            <li class="hamburger__items__item">
+                <a href="{{ .URL }}" class="hamburger__items__item__link" role="menuitem">
+                    {{ .Name }}
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</nav>
