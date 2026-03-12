@@ -36,7 +36,7 @@ enableRobotsTXT = true
 [params.posts]
     showAuthor = false
     showDate = true
-    showTags = true
+    showTags = false
     dateFormat = "02-01-2006"
 
 [params.contact] # Contact info
