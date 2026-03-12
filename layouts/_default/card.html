@@ -1,7 +1,7 @@
 <article class="card">
     <header class="card__header">
         <h1 class="card__header__title">
-            <a href="{{ .Permalink }}" class="card__header__link" alt="{{ .Title }}.">
+            <a href="{{ .Permalink }}" class="card__header__link" title="{{ .Title }}">
                 {{ .Title }}
             </a>
         </h1>
@@ -18,10 +18,10 @@
         {{ end }}
     </header>
 
-    <main class="card__body">
+    <div class="card__body">
         {{ .Content | truncate 480 }}
         <a href="{{ .Permalink }}">Подробнее</a>
-    </main>
+    </div>
 
     <footer class="card__footer">
         {{ .Render "tags" }}

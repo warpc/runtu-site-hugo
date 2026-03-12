@@ -1,16 +1,14 @@
 baseURL = ""
-languageCode = "ru-Ru"
+languageCode = "ru-RU"
 title = "Runtu"
 theme = 'terrassa'
 enableRobotsTXT = true
-pagerSize = 10
+
+[pagination]
+  pagerSize = 10
 
 [outputs]
   home = [ "HTML", "RSS", "Sitemap"]
-
-[author]
-  name =  'Runtu Team'
-  email = 'org@runtu.org'
 
 [params]
   description = "Runtu — быстрый и лёгкий Linux на русском"
@@ -18,11 +16,12 @@ pagerSize = 10
   favicon = "images/favicon.ico"
   logo = 'images/logo.png'
 
-[params.google.analytics]
-  id = 'UA-6171888-2'
+[params.author]
+  name = 'Runtu Team'
+  email = 'org@runtu.org'
 
 [params.copy]
-    copy = "2007-2025 Runtu"
+    copy = "2007-2026 Runtu"
 
 [params.hero]
     textColor = "" # Empty for default color
@@ -52,11 +51,6 @@ pagerSize = 10
 ### For sections the name/directory must match the menu .Identifier
 
 [privacy]
-    [privacy.googleAnalytics]
-        anonymizeIP = true
-        disable = false
-        respectDoNotTrack = true
-        useSessionStorage = false
     [privacy.instagram]
         disable = false
         simple = false
