@@ -1,5 +1,11 @@
 /* Media queries — shadows theme media-queries.css */
 
+@media (min-width: 1400px) {
+    :root {
+        --container-width: 1200px;
+    }
+}
+
 @media (max-width: 1024px) {
     .header {
         padding: var(--space-md);
