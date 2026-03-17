@@ -64,6 +64,19 @@
         padding: var(--space-md);
     }
 
+    .post__body table {
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .post__body td a[href$="/download"] {
+        min-height: 44px;
+        display: inline-flex;
+        align-items: center;
+        padding: var(--space-sm) var(--space-md);
+    }
+
     .footer__contact__item {
         display: block;
         margin: var(--space-xs) 0;

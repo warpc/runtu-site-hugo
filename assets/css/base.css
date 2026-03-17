@@ -116,7 +116,7 @@ table {
     width: 100%;
     border-collapse: collapse;
     margin-bottom: var(--space-lg);
-    font-size: var(--fs-sm);
+    font-size: var(--fs-base);
 }
 
 th {
